@@ -8,7 +8,7 @@ bite 1d4+1
 
 lili
 ac 13 • 10 hp / 10
-nunchaku 1d4+2
+nunchaku 1d4+2, unarmed 1d4+1
 
 ningal
 ac 14 •  8 hp / 8
@@ -20,8 +20,8 @@ buckler +1 ac, scimitar 1d6+1
 
 knutt
 ac 16 • 12 hp / 12
-glaive 1d8
+bite 1d4-1, glaive 1d8
 
 rutt
 ac 14 • 10 hp / 10
-shortsword 1d6
+bite 1d4-1, shortsword 1d6

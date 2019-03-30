@@ -26,31 +26,38 @@ max hp 5
 dmg 1d4+1, 1d6+1
 
 [abilities]
-
+(class) focus energy: spend a turn to deal double damage the next round
 
 [feats]
-third eye: in combat lili's third eye opens and her ac rises by 2 points
+dodge: in combat lili's ac rises by 2 points
 
 [bag]
-
+fish hooks and line
+silk rope (50ft.)
+pouch
+flask
 
 [goals]
 what are their long-term and short-term goals?
-    long-term: to travel and see as many new things as she can
-    
-    short-term: to enjoy her time with ifir and the gnoll boys and get away from the desert
+
+  long-term: to travel and see as many new things as she can
+  
+  short-term: to enjoy her time with ifir and the gnoll boys and get away from the desert
 
 [backstory]
 what events led them to have these goals?
-    life in kidwy pushed lili to want to travel, from the free-spirited nature of the people of her community to her own curiosity
+
+  life in kidwy pushed lili to want to travel, from the free-spirited nature of the people of her community to her own curiosity
 
 [flaws]
 what is holding them back?
 
+  
 
 [personality]
 what do their goals, past, and flaws reveal about who they are?
 
+  lili is carefree and adventurous, unwilling to slow down or settle down. she's like a shark: powerful, wild, and always moving forward.
 
 [information]
 what do they know that the pc doesn’t?
