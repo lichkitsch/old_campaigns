@@ -1,0 +1,51 @@
+name
+lvl 1 gender race class
+exp 000 / 000
+
+max hp 10
+ac 10 (10 [base])
+
+[traits] 
+str 10 (+0)
+dex 10 (+0)
+con 10 (+0)
+int 10 (+0)
+wis 10 (+0)
+cha 10 (+0)
+
+[equipment]
+
+
+[description]
+
+
+[companion]
+
+
+[abilities]
+
+
+[feats]
+
+
+[bag]
+
+
+[goals]
+what are their long-term and short-term goals?
+
+
+[backstory]
+what events led them to have these goals?
+
+
+[flaws]
+what is holding them back?
+
+
+[personality]
+what do their goals, past, and flaws reveal about who they are?
+
+
+[information]
+what do they know that the pc doesn’t?
