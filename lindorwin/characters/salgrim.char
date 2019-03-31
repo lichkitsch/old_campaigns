@@ -2,7 +2,7 @@ salgrim
 lvl 1 female gnome cleric
 exp 000 / 000
 
-max hp 10
+max hp 13
 ac 12 (10 [base], +2 [garb of va'shuth])
 
 [traits] 
@@ -32,21 +32,28 @@ turn undead: undead creatures >3 cr turn away in fear on a successful dc 20 wisd
 
 [goals]
 what are their long-term and short-term goals?
+  
+  long-term: salgrim wants to spread the word of va'shuth, a gospel of justice and fairness, and to stop as much death as possible
 
   short-term: warn the queen of the coming danger
 
 [backstory]
 what events led them to have these goals?
 
-  short-term: she received a vision from the goddess va'shuth that the queen was in danger
+  she holds herself to blame for her late wife's death (a disease she didn't understand and couldn't cure with her knowledge at the time) and became a cleric late in life partly to repent
+
+  short-term: she received a vision from the goddess va'shuth that the new prince was in danger
 
 [flaws]
 what is holding them back?
 
+  disappointment and degradation of herself keeps her from accepting that there are things out of her control
 
 [personality]
 what do their goals, past, and flaws reveal about who they are?
 
+  salgrim is a bit of a control freak, she feels deeply but comes across as borderline apathetic due to bottling things up. she's determined and loyal, and has no patience for criminals
 
 [information]
 what do they know that the pc doesn’t?
+salgrim knew ahead of time that the prince was in danger and that they wouldn't save him in perfect condition
