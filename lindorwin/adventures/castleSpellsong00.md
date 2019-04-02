@@ -22,13 +22,21 @@ Rat      | ac 14 | 2 hp | 1d3-4 bite dmg
 Dire Rat | ac 12 | 7 hp | 1d6-1 bite dmg + 1 disease dmg on failed CON saving throw
 Cultist  | ac 10 | 8 hp | Kris (1d4 dmg), metal mask, 2d8 quarters
 
+Just disabled bomb traps, found 3 gold in jars. Coffins and wooden door.
+
 ## The Catacombs
 The sewers connect with a series of catacombs, a mausoleum beneath a temple. There are more cultists here and jail cells with kidnapped victims. The Leader is running a ritual in the main hall, holding Prince Elomar in one hand and a Book of Death in the other. He can increase the power of his disciples with evocations, causing them to deform in demonic ways.  
 
+Rat King | ac 16 | 1 hp | 1d6-1 bite dmg + 1 disease dmg on failed CON saving throw
+
 ### Enemies
-Cultist         | ac 10 | 1d4+4 hp | Kris (1d4 dmg), metal mask, 2d8 quarters
-Blessed Cultist | ac 12 |    12 hp | Claws (1d6 dmg) and Teeth (1d4+1 dmg)
-Leader          | ac 10 |     8 hp | Book of Death, hostage Prince Elomar
+Cultist | ac 10 | 1d4+4 hp | Kris (1d4 dmg), metal mask, 2d8 quarters
+Hulkist | ac 12 |    12 hp | Claws (1d6 dmg) and Teeth (1d4+1 dmg)
+Leader  | ac 10 |     8 hp | Book of Death, hostage Prince Elomar
 
 ## Aftermath
 Once Leader is defeated and Elomar is safe, the party returns the child to Mira. Mira recognizes Dama instantly as the child of the Mad Alchemist and has him detained.
+
+red hulk gash in arm, failed slash on knutt
+rutt stabbed green hulk with shortsword, green hulk pushed him off and kept his blade in his body
+ifir's turn
