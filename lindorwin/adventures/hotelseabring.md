@@ -32,14 +32,39 @@ Room full of mirrors from which dark tentacles spring forth and eventually also 
 ### Woods
 Salgrim wakes in the woods behind the hotel and is chased by a smoke-like being (Annabushka)
 
-Body-switching Kiss - Ifir & Lili (Ifir & gnolls)
-Room of Shadow Tentacles - Lili (in Ifir’s body)
+### Kitchen
+Dama wakes in the hotel kitchen, face to face with a large silver bear
+
+Once everyone finds their way back to the front of the hotel, Annabushka reveals herself. Thin, glowing, white chains shoot from her sleeves and shackle the ghosts. Horace fades into view behind Annabushka holding a similar chain which has Lisabeth trapped. He explains that after Vavi killed him he learned the truth and tracked down Annabushka, wanting her help to save his hotel as his last piece of unfinished business. Julius apologizes to the party, as does Heinrich and Romana, but Lisabeth spits at them and curses them out for keeping her from her fiance. Vavi appears and challenges Annabushka to a fight.
 
 ## NPCs
-Horace Seabring (human innkeeper)
-Annabushka (ex-human reaper) +1 STR, +2 DEX, -2 CHA
-Julius (half-elf cooper): +2 STR, -2 INT
-Romana (elf noble): +1 INT, -1 STR
-Lisabeth (halfling tailor): +1 DEX, -1 WIS
-Heinrich (half-orc bard): +2 CHA, +1 INT, -2 STR
-Vavi (human druid): +1 INT, +3 WIS, -2 STR, -1 CHA
+
+###Horace Seabring
+(human innkeeper): kind, anxious
+
+### Estodh
+(elven butler): friendly, helpful, apologetic
+
+### Belby
+(halfling chef): sour, aggressive, fearless
+
+### Rori
+(dwarf maintenance tech): quiet, stern, scared of ghosts
+
+### Annabushka
+(ex-human reaper) +1 STR, +2 DEX, -2 CHA; easily rattled, worn thin from years of death
+
+### Julius
+(half-elf cooper): +2 STR, -2 INT; soft hearted soul
+
+### Romana
+(elf noble): +1 INT, -1 STR; a romantic with a kinky side
+
+### Lisabeth
+(halfling tailor): +1 DEX, -1 WIS; a hopeful yet delusional bride
+
+### Heinrich
+(half-orc bard): +2 CHA, +1 INT, -2 STR; smooth talking bachelor
+
+### Vavi
+(human druid): +1 INT, +3 WIS, -2 STR, -1 CHA; vindictive brat
