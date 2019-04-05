@@ -1,7 +1,7 @@
 # A Night at Hotel Seabring
 After saving Horace Seabring from the kidnapping cult the party is invited to spend a free night at his hotel, the Hotel Seabring. The hotel sits a few miles north of Steson at the edge of a small evergreen forest. It’s a popular spot for hunters, but every year they experience a dry season thanks to rumors of ghosts that appear once a year, always accompanied by a tragic death on the grounds.
 
-The hotel looks like a mansion: four stories of dark red brick, bright white window panes and curtains, black tile roof and gravel roads leading to the patio at the front. There’s a large apple tree out front and a bronze statue of Malta, bow-wielding goddess of the hunt. It’s still spring, and the apple tree is in bloom, filling the wind and lawn with soft pink petals.
+The hotel looks like a mansion: three stories of dark red brick, bright white window panes and curtains, black tile roof and gravel roads leading to the patio at the front. There’s a large apple tree out front and a bronze statue of Malta, bow-wielding goddess of the hunt. It’s still spring, and the apple tree is in bloom, filling the wind and lawn with soft pink petals.
 
 The party gets settled in their rooms and they kill time before dinner in their own ways: Salgrim reads a book by the apple tree, Lili and Ningal fish at the small pond next to the hotel, and the Gnolls decide to roam the woods for a few hours.
 
