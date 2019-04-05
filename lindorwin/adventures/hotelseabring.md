@@ -9,26 +9,35 @@ At dinner Horace explains the dry season, the ghost stories, and the tragic deat
 
 When the party goes to sleep is when things get weird.
 
-## Fuckery
 First, Ifir wakes up to a pair of glowing eyes watching her. She feels a flush of heat inside her body and a pulsing between her legs. She feels compelled to touch herself and must roll to resist.
-
+~
 Dama shows up with a candleabra and a story about the ghost of a man undressing in his room. Ifir feels a pinch on her butt and turns to see a second Dama, smiling slyly.
-
+~
 **double fuck ensues**
-
+~
 Exhausted but unable to sleep, Ifir goes to explore the mansion. She finds Horace dead on the steps of the patio, fang marks in his neck with black veins spreading from the wounds. His body is also contorted into a strange, frozen pose. She goes to wake the rest of the party and tell them what she's found, although Lala is missing. When they return to view the body it's disappeared.
 
 ## The Crime
 The ghosts wake once a year and call the attention of a reaper, come to ferry their souls to the Pale. Each not wanting to leave for their own reasons (scared of being separated, waiting for her fiance to arrive, unfinished business), the ghosts found ways to avoid the reaper. Heinrich sets traps, the lovers distract folks, Lisabeth latches on to depressed living souls to distract the reaper, and Vavi changes into animals to kill people (the fresh soul takes priority and the reaper spends time taking care of them while the ghosts hide). Come morning they all fade, safe from retribution until the next year. Horace was the victim this year; Vavi made it look like Lala poisoned him to cause a distraction.
 
+## The Investigation
+When the party reenters the hotel, the doors slam shut behind them and won't budge. A fog slowly rolls in from down the hallway and fills the room, blocking everyone's vision. While in the cloud, Ifir feels soft hands on her shoulders that spin her and she feels a kiss on her lips but sees nothing. Her vision goes dark. When everyone wakes, they're in different rooms of the hotel and ifir and lili have switched bodies.
 
+### Top floor - Library
+Horny gnolls, ifir in lili's body
+
+### Basement
+Room full of mirrors from which dark tentacles spring forth and eventually also Heinrich, lili in ifir's body
+
+### Woods
+Salgrim wakes in the woods behind the hotel and is chased by a smoke-like being (Annabushka)
 
 Body-switching Kiss - Ifir & Lili (Ifir & gnolls)
 Room of Shadow Tentacles - Lili (in Ifir’s body)
 
 ## NPCs
 Horace Seabring (human innkeeper)
-Annushka (ex-human reaper) +1 STR, +2 DEX, -2 CHA
+Annabushka (ex-human reaper) +1 STR, +2 DEX, -2 CHA
 Julius (half-elf cooper): +2 STR, -2 INT
 Romana (elf noble): +1 INT, -1 STR
 Lisabeth (halfling tailor): +1 DEX, -1 WIS
