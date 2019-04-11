@@ -43,24 +43,77 @@ Little more than a campsite, White Vale sits at the edge of a large evergreen fo
 3. Lumber Mill (large spinning saw, stacks of timber and cut lumber planks)
 4. Bunks (personal items left behind, clue?)
 5. Office (info on sustainable lumber methods, Ezrah is here looking through papers for clues)
-6. Washrooms ()
+6. Washrooms (clue?)
 
 ## Keep - Surface
 ```
-
+              - - - - -               
+            /           \             
+        - -     *     E   \           
+      /                     \         
+    /     + +   B   + +       -       
+  /       + +       + +         \     
+/   *           -         *     |     
+\       A     / X \   D       - +     
+  \           \ X /                   
+    |           -                     
+    |     + +       + +       - +     
+    \     + +       + +         |     
+      \         *         C     /     
+        \                     /       
+          - - - - -       *   \       
+                    \ F       /       
+                      - - - -         
 ```
 
 ### Legend
-
+- A: 
+- B: 
+- C: 
+- D: 
+- E: 
+- F: 
+- X: Hole in floor
 
 ## Keep - Below
 ```
-MAP GOES HERE
+    + - - - - - - - - - - - - - - - +      
+    |                               |      
++ - +                               + - +  
+| 1 =                               = 2 |  
++ - +                               + - +  
+    |         + +   B   + +         |      
+    |         + +       + +         |      
++ - +               -               + - +  
+|   =         A   /   \             =   |  
+| 3 =             \   /   C         = 4 |  
+|   =               -               =   |  
++ - +         + +       + +         + - +  
+    |         + +   D   + +         |      
++ - +                               + - +  
+| 5 =                               = 6 |  
++ - +                               + - +  
+    |                               |      
+    + - - - - +           + - - - - +      
+              |           |                
+              |     7     |                
+              |           |                
+              + - - - - - +                
 ```
 
 ### Legend
-
+1. Alcove
+2. Alcove
+3. Alcove
+4. Alcove
+5. Alcove
+6. Alcove
+- A: 
+- B: 
+- C: 
+- D: 
 
 ## Epilogue
+
 
 ### Rewards
