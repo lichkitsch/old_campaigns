@@ -5,6 +5,8 @@ The hotel looks like a mansion: three stories of dark red brick, bright white wi
 
 The party gets settled in their rooms and they kill time before dinner in their own ways: Salgrim reads a book by the apple tree, Lili and Ningal fish at the small pond next to the hotel, and the Gnolls decide to roam the woods for a few hours.
 
+Belby and Estodh bring out plates of seasoned roasted meats, blocks of hard cheese, plates of fruits and vegetables, bottles of wine, and a tower of cookies cut in the shape of blue seahorses.
+
 At dinner Horace explains the dry season, the ghost stories, and the tragic deaths. “It’s always around this time of year, which is why our guests tend to stay away until summer.” He goes on to describe the individual ghosts. “There’s a couple, a prank-pulling pair of star-crossed lovers. A bard, heard singing songs of old and playing some sort of string instrument. The runaway bride, often seen crying on the bench out front in her wedding garments. There are other things people claim to see or feel, cold spots and mood swings and such, but those four are the only ones that have been consistent.” When asked if he has seen them, Horace replies “No, not once, and I’ve lived here my whole life.”
 
 When the party goes to sleep is when things get weird.
@@ -39,17 +41,20 @@ Once everyone finds their way back to the front of the hotel, Annabushka reveals
 
 ## NPCs
 
-###Horace Seabring
+### Horace Seabring
 (human innkeeper): kind, anxious
 
 ### Estodh
-(elven butler): friendly, helpful, apologetic
+(elven butler): friendly, apologetic, scared of ghosts
+knows about Heinrich, that there are rooms in the basement he's not allowed to enter
 
 ### Belby
 (halfling chef): sour, aggressive, fearless
+knows about Vavi, not her name but that strange critters wander the grounds
 
 ### Rori
-(dwarf maintenance tech): quiet, stern, scared of ghosts
+(dwarf maintenance tech): quiet, stern, not shaken by death
+knows about Lisabeth; Rori was Lisabeth's fiance, he found out she died and stayed at the hotel to be close to her spirit
 
 ### Annabushka
 (ex-human reaper) +1 STR, +2 DEX, -2 CHA; easily rattled, worn thin from years of death
