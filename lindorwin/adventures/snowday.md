@@ -90,6 +90,7 @@ Little more than a campsite, White Vale sits at the edge of a large evergreen fo
 + - +               -               + - +  
     |         + +       + +         | 
     |         + +   D   + +         |      
+    |                               |      
 + - +                               + - +  
 | 5 =                               = 6 |  
 + - +                               + - +  
