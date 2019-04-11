@@ -27,42 +27,47 @@ Ilien was attacked in the middle of the night some weeks ago by a strange creatu
 
 ## White Vale
 ```
-# # # # # #       | - |                        
-#         #       | - |           # # # # # # #
-#   1     |   *   | - |           #           #
-#         #       | - |       # # #           #
-#         #       | - |   *   #               #
-# # # # # #       \ - \       |     2         #
-                    \ - \     #               #
-  # # # # # # # #   | - |     #         # # - #
-  #             #   | - |     # # # # # #      
-  |             #   | - |                      
-  # # #   3     #   | - |   # # # # #       *  
-      #         |   | - |   #       #          
-  *   #         #   | - |   #       # - #      
-      #         #   | - |   |   4       #      
-      # # # # # #   | - |   #           #      
-                    | - |   #       # - #      
-            *       | - |   #       #          
-                    | - |   # # # # #   *      
-    # # # #         \ - \                      
-    #     #           \ - \         # # # # #  
-    # 5   |             \ - \       #       #  
-    # # # #             | - |       |   6   |  
-              *         | - |       #       #  
-                        | - |       # # # # #  
-                        | - |                  
+# # # # # #       |   |                        
+#         #       |   |           # # # # # # #
+#   1     |   *   |   |           #           #
+#         #       |   |       # # #           #
+#         #       |   |   *   #               #
+# # # # # #       \   \       |     2         #
+                    \   \     #               #
+  # # # # # # # #   |   |     #         # # - #
+  #             #   |   |     # # # # # #      
+  |             #   |   |                      
+  # # #   3     #   |   |   # # # # #       *  
+      #         |   |   |   #       #          
+  *   #         #   |   |   #       # - #      
+      #         #   |   |   |   4       #      
+      # # # # # #   |   |   #           #      
+                    |   |   #       # - #      
+            *       |   |   #       #          
+                    |   |   # # # # #   *      
+    # # # #         \   \                      
+    #     #           \   \         # # # # #  
+    # 5   |             \   \       #       #  
+    # # # #             |   |       |   6   |  
+              *         |   |       #       #  
+                        |   |       # # # # #  
+                        |   |                  
 ```
 
 Little more than a campsite, White Vale sits at the edge of a large evergreen forest around the base of a large mountain range, beyond which is a frozen wasteland called the Lonely Plains. Woodsfolk comb the forest for timber to process into lumber and ship to Steson. The whole affair has been developed to be sustainable; trees are cultivated along the edge of the forest with the deeper "main" woods left untouched, taking advantage of the ecosystem without disturbing the land too much. There are six buildings total, each with a wooden sign indicating its purpose. Woodsfolk sit outside around campfires. They've been searching the forest in shifts, looking for Ilien but finding nothing.
 
 ### Legend
-1. Storehouse (saws, hammers, chisels, nails, pitons, rope, lumber, etc.)
-2. Mess Hall (clue?)
-3. Lumber Mill (large spinning saw, stacks of timber and cut lumber planks)
-4. Bunks (personal items left behind, clue?)
+1. Storehouse
+2. Mess Hall
+3. Lumber Mill
+4. Bunks
 5. Office (Ezrah is here looking through papers for clues)
-6. Washrooms (clue?)
+6. Washrooms
+
+## Blizzard
+While searching the forest for Ilien, the party gets separated and Ifir and Ezrah find some time to be alone together for the first time in a long time.
+
+After some passionate "catching up" the two find that the rest of the party has been captured by a troop of dwarves and taken into an abandoned mine.
 
 ## Mine - Entrance
 ```
@@ -85,16 +90,16 @@ Little more than a campsite, White Vale sits at the edge of a large evergreen fo
                       - - - -         
 ```
 
-
+DESCRIPTION
 
 ### Legend
 - A: Dwarf Cleric (AC 12 | 12 HP | 1d6 Healing)
 - B: Belly Dwarf w/ Spear (AC 12 | 11 HP | 2d4 dmg)
 - C: Red Hat Dwarf w/ Bow (AC 14 | 15 HP | 2d4 dmg)
 - D: One Arm Dwarf w/ Spiked Shield (AC 15 | 9 HP | 1d4-2 dmg)
-- E: 
+- E: The party, bound and gagged.
 - F: 
-- X: Hole in floor
+- X: Hole in floor with stone steps along the edge leading down.
 
 ## Mine - Below
 ```
@@ -114,14 +119,16 @@ Little more than a campsite, White Vale sits at the edge of a large evergreen fo
     |                               |      
 + - +                               + - +  
 | 1 =                               = M |  
-+ - +                               + - +  
-    |                               |      
-    + - - - - + " " " " " + - - - - +      
-              |           |                
-              |     2     |                
-              |           |                
-              + - - - - - +                
++ S +                               + - +  
+|   |                               |      
+|   + - - - - + " " " " " + - - - - +      
+|   |         |           |                
+|   - - - - - |     2     |                
+|             S           |                
++ - - - - - - + - - - - - +                
 ```
+
+DESCRIPTION
 
 ### Legend
 1. Ilien (hiding)
@@ -132,6 +139,7 @@ Little more than a campsite, White Vale sits at the edge of a large evergreen fo
 - C: Helmet Dwarf w/ Sword (AC 14 | 16 HP | 1d6+2 dmg)
 - D: Shirtless Dwarf w/ Clubs (AC 12 | 20 HP | 1d6 dual dmg)
 - M: Mineshaft
+- S: Secret door into vault
 
 ## Epilogue
 
