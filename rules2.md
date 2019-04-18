@@ -1,18 +1,34 @@
-# Simple Tabletop RPG
-
+# Rules
 
 ## Traits
-1. Earth: Body  - Represents health and stamina
-2.  Wood: Heart - Represents wisdom and charisma
-3. Water: Mind  - Represents logic and memory
-4.  Fire: Power - Represents strength and muscle
-5. Metal: Skill - Represents dexterity and agility
+| Name | Use |
+| ---- | --- |
+| Strength | Power, muscle, melee attacks |
+| Dexterity | Speed, reflexes, agility, stealth, sneak attacks |
+| Constitution | Health, endurance, stamina |
+| Intelligence | Logic, memory, critical thinking |
+| Wisdom | Intuition, perception, willpower, faith |
+| Charisma | Personality, leadership, likability |
 
-### Flows
-    Earth           Earth
-    v   ^           v   ^
- Fire   Metal   Water   Wood  
-    v   ^           v   ^                             
- Wood > Water    Fire > Metal   
+Distribute 5 bonus points among the following:
+STR | DEX | CON | INT | WIS | CHA
+Armor | HP | Base | Tool | Magic
 
+Add 1 point to any level up
+
+No more than 5 on any one thing
+
+Name and Title
+
+           | STR +0
+ARMOR   10 | DEX +0
+HP   20/2O | CON +0
+BASE    +0 | INT +0
+TOOL    +0 | WIS +0
+MAGIC   +0 | CHA +0
+
+Equipped: 
+
+Bag: 
+Perks: 
 

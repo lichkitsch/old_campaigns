@@ -7,7 +7,7 @@ When and where are we? Set the stage, introduce relevant NPCs, etc.
 What problem is the party trying to solve?
 
 ## Encounter 1 (or 2) - Entrance with Guardian
-What's the first immediate obstacle the party must overcome to cross the threshold into dangerous territory?
+What's the first immediate obstacle the party must overcome to cross the threshold into unknown territory?
 
 ## Encounter 2 (or 1) - Puzzle/RP Challenge
 What's the second obstacle sitting between the party and the solution to the problem? One of these first two encounters should be combat, one should be interaction, and both should have elements of exploration.

@@ -39,6 +39,15 @@ Dama comes to her room with a patchwork map he won by gambling down at the docks
     Clue: A sign next to the door reads "Warm flesh alone may enter this room."
     Reward: 400g, Oil of Purification, Oil of Wood Shape, Scroll of Shield, Scroll of Dispel Magic, Potion of Sanctuary, and a bag of gems (Mostly pearls with a few rubies and some rose quartz). With careful inspection, a diary can be found by someone named Hilda.
 
+    Opening the chest triggers a trap: a door slams shut and the water starts rising and can only be stopped by pulling the levers that appear on either sides of the door.
+
+    With the diary in hand, the door is ready to be opened. Upon reciting the answers, the door opens into a room with a monster plant guarding a shimmering gold curtain.
+
+    Plant Monster: AC 14 | 22/28 HP
+        Teeth: 1d4 DMG
+        Whipping Vines: 1d6 DMG | grapple
+        Pheromone Secretion: DC 14 | induces arousal (-1 AC next round)
+
 3. True resting place of the Harlot Queen of Steson
     There is a bed with red silk sheets and a golden figure of a woman lying in the center. On the wall is a hewn stone podium with a long inscription. It tells the story of Hilda, an orphan-turned-bard who travelled the land, sleeping with and swindling rich men. She wrote erotic fiction that she published and sold in various cities, her books were copied and distributed across the land. Hilda fell for an elven rogue, a woman with great wealth thanks to her pirate days. They lived together for a time, but Hilda's charm left a lasting effect on the men she courted and they gave her and her lover no peace. They retreated into a secret place where they lived happily until Hilda's passing from old age. The elven woman cast Hilda's body in gold and built her a resting place full of magic and traps to keep her body safe, as her ex-suitors never stopped seeking her out, even in death.
 

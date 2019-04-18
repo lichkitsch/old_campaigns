@@ -15,10 +15,8 @@ Little more than a campsite, White Vale sits at the edge of a large evergreen fo
 
 The party can find the following clues:
 1. Ezrah rooting through papers in the office.
-2. 
-3. 
-4. 
-5. 
+4. Strange noises in the woods at night.
+5. White hair in the washroom.
 6. Blood on the trees a little deeper into the woods.
 
 ### Encounter 1 - The Mairu
