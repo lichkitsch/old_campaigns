@@ -13,10 +13,13 @@ Dragonborn cleric
 
 ## Castle Spellsong
 Queen Mira
+Remy
 Princess Yuna
 Princess Setra
 Prince Elomar
 Royal Advisor Tybalt
+Lotelias
+Petra
 General Oliander, Head of the Royal Guard
 Lieutenant Percival
 
