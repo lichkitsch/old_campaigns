@@ -16,9 +16,16 @@ After landing on the island the party drops their stuff off at the Spellsong bea
 
 Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, escaped the pit to find peaceful simple life) watch over the island year round. They seem surprised to have visitors. "Remy and the former King and Queen were only just here, usually there's some time inbetween guests is all." The two claim to have to prepare the manor for the group and set them up with a campfire on the beach. (They like having the island to themselves because they're free to be as kinky as they want when they're alone.)
 
+While sitting around the campfire the group starts to tell spooky stories:
+
+1. Dama's okay at it
+2. Lili is great at it
+3. Ezrah is terrible at it
+
+Then Porkchop scares the group and Pippa and Corona are laughing at them. They tell them the legend about the island and the manbeast that lurks in the forest and how Porkchop lost a leg fighting it off. (Porkchop was born with only three legs).
 
 
-- ghost stories around campfire
-- lili rly good at scary stories
+
+
 - lili n gnolls bang n ifir thinks its a ghost and goes to find dama
 - dama hears ifir mention teru to ezrah
