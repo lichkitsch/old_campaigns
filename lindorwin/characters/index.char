@@ -1,35 +1,22 @@
-ifir   
-ac 14 • 17 /17 hp 
-dual kama 2d4
+| name    | ac | hp    | weapon           |
+|---------|----|-------|------------------|
+| ifir    | 14 | 17/17 | kama w/ poison   |
+| lala   *| 16 |  8/ 8 | bite             |
+| lili    | 13 | 16/16 | nunchaku         |
+| ningal *| 14 | 12/12 | bite and claw    |
+| dama    | 12 | 13/13 | sword and shield |
+| knutt   | 14 | 18/18 | glaive           |
+| rutt    | 12 | 12/12 | shortsword       |
+| salgrim | 12 | 18/18 | blackwood staff  |
+| ezrah   | 14 | 27/27 | morningstar      |
 
-lala the lindworm
-ac 16 •  8 / 8 hp 
-bite 2d4+1
+* animal companion
 
+initiative order
+----------------
+ifir
 lili
-ac 13 • 16 /16 hp
-nunchaku 2d4+2, unarmed 2d4+1
-
-ningal
-ac 14 • 12 /12 hp
-tiger; bite 2d6, claws 2d8
-
 dama
-ac 14 •  11 /13 hp
-buckler +1 ac, scimitar 2d6+1
-
-knutt (darker fur)
-ac 16 • 15 /18 hp
-bite 2d4-1, glaive 2d8
-
-rutt (lighter fur)
-ac 14 • 12 /12 hp
-bite 2d4-1, shortsword 2d6
-
-salgrim
-ac 12 • 18 /18 hp
-shortstaff 2d6
-
+gnolls
+sal
 ezrah
-ac 16 • 25 /27 hp
-morningstar 2d8
