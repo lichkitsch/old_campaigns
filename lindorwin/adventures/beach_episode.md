@@ -18,9 +18,9 @@ Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, e
 
 While sitting around the campfire the group starts to tell spooky stories:
 
-1. Dama's okay at it
-2. Lili is great at it
-3. Ezrah is terrible at it
+1. Dama's okay at it (ghost of a mad wizard haunting the air where his tower used to stand)
+2. Lili is great at it (mimic house)
+3. Ezrah is terrible at it (a man was killed tragically and became a ghost)
 
 Then Porkchop scares the group and Pippa and Corona are laughing at them. They tell them the legend about the island and the manbeast that lurks in the forest and how Porkchop lost a leg fighting it off. (Porkchop was born with only three legs).
 
