@@ -32,3 +32,23 @@ Equipped:
 Bag: 
 Perks: 
 
+dark cavern, bones and poisonous slime
+- orange or green + clearing vial = yellow
+- yellow cancels purple poison
+
+snake hp 7
+jaguar hp 10
+
+sal 12
+
+lizard hp 32
+
+lizard 20
+gnolls 15
+ezrah 14
+ifir 11
+dama 7
+lili 3
+
+**Stopping Point**
+The gang is ready to cross the desert in pursuit of Lotelias and his men.
