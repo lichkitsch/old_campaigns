@@ -32,6 +32,7 @@ Equipped:
 Bag: 
 Perks: 
 
+<<<<<<< HEAD
 dark cavern, bones and poisonous slime
 - orange or green + clearing vial = yellow
 - yellow cancels purple poison
@@ -52,3 +53,10 @@ lili 3
 
 **Stopping Point**
 The gang is ready to cross the desert in pursuit of Lotelias and his men.
+=======
+❤️  ❤️  ❤️ 
+🛡10 
+ 💪 0 | 🎯 0 | 🍖 0
+ 📚 0 | 👁️ 0 | 💖 0
+ ✋ 0 | 🛠 0 | 🔮 0
+>>>>>>> b19f5836dccb519923cf5043ae4fbe8caadf3b02
