@@ -14,7 +14,7 @@ During the trip to the island a storm builds up and eventually becomes big enoug
 
 After landing on the island the party drops their stuff off at the Spellsong beach house, a small manor situated on a hill overlooking the beach. There's a small garden, hot springs, and a forest on the island. It is attended by a married couple, Pippa and Corona, and their pet bugbear named Porkchop.
 
-Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, escaped the pit to find peaceful simple life) watch over the island year round. They seem surprised to have visitors. "Remy and the former King and Queen were only just here, usually there's some time inbetween guests is all." The two claim to have to prepare the manor for the group and set them up with a campfire on the beach. (They like having the island to themselves because they're free to be as kinky as they want when they're alone.)
+Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, escaped the dark to find peaceful simple life) watch over the island year round. They seem surprised to have visitors. "Remy and the former King and Queen were only just here, usually there's some time inbetween guests is all." The two claim to have to prepare the manor for the group and set them up with a campfire on the beach. (They like having the island to themselves because they're free to be as kinky as they want when they're alone.)
 
 While sitting around the campfire the group starts to tell spooky stories:
 
