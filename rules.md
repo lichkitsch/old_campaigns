@@ -1,14 +1,83 @@
 # How to Play
 
-## Actions, Tasks, and Effect Dice
-When a player wants to do something where the outcome is uncertain they make an action roll. Action rolls consist of roll 1d20 and applying bonuses or penalties to get a result that is higher than the current __Air of Fate__.
+## Actions and Attempts
+The fluctuating level of difficulty in the game is represented by the *Air of Fate*, a visible target number between 3 and 18. When the player wants to do something they describe the action and roll `1d20`, adding any relevant bonuses or penalties, trying to get a result that is higher than the *Air of Fate*.
 
-### Air of Fate
-The __Air of Fate__ is a number between 8 and 18 that is shared with the players which represents the level of difficulty the party is currently up against. The __Air of Fate__ can be represented by a d20, and this number will change depending on the scene but generally the further into the story you go, the __Air of Fate__ rises.
+There are actions, which are pass/fail events, and there are tasks. Tasks have hit points (HP), visually represented by hearts, that must be depleted before they are accomplished. Successful attempts at a task means the player can roll their effect dice (plus the effect bonus, if applicable), and subtract the result from the task's HP. 1 heart equals 10 HP, so a locked chest with 1 heart will take 10 effect to unlock it or break it open. This is also how combat works, at least against non-player characters (NPCs) and creatures. Think of "defeat a hostile target" as being a task to accomplish. This could mean capture, forced surrender, or killing, depending on the context.
 
-### Tasks
-Things that players want to do have hit points (HP) that represent the progress required to complete the task. Many actions are pass/fail and can be thought of as having only 1 HP, but difficult tasks like breaking down a tough door or picking a lock will have at least 10 HP.
+If a task is made on a willing party, such as healing a wounded ally, the action roll is optional and would only be taken if the actor wants to risk a failure for the chance at a critical roll.
 
-When a player rolls a successful attempt at a task they will then roll their effect dice and use the result to reduce the task's HP. In this sense, combat can be thought of as completing the task "defeat my opponent."
+> Some tasks have conditions for attempts, such as using a specific trait or effect. For example, Kilmaniorc the Barbarian Fighter cannot use their +4 strength to sing a magical song of healing.
 
- w
+## Traits and Effects
+Actions and attempts are modified by bonuses and penalties, the simplest of which come in the form of character traits and effects. All characters and creatures have six traits and four effects, each with a number between -5 and 5 that indicates the bonus or penalty to rolls made with it. 
+
+### Traits
+| Name | Abbr. | Use |
+| ----:|:-----:|:--- |
+| Strength | STR | Power, muscle, and melee attacks |
+| Dexterity | DEX | Agility, reflexes, stealth, sneak attacks and ranged attacks |
+| Constitution | CON | Health, endurance, and stamina |
+| Intelligence | INT | Logic, memory, and critical thinking |
+| Wisdom | WIS | Willpower, faith, intuition, and perception |
+| Charisma | CHA | Appeal, leadership, and manipulation |
+
+### Effects
+**Basic Effect**
+Players roll `1d4` on any successful roll, but they do add their basic effect score to attempts which are not aided by tools, magic, or a natural 20.
+
+**Tool Effect**
+When a player is using a tool or weapon to aid in an attempt, they roll `1d4+1d6+TL` where TL is their tool effect score.
+
+> Poisons and potions count as tools, as do lockpicks, animal companions, and non-magical projectiles.
+
+**Magic Effect**
+When a player is using magic to aid in an attempt, they roll `1d4+1d8+MG` where MG is their magic effect score.
+
+> Casting a spell, summoning a spectral weapon, or crafting objects with alchemy all count as magic, but magic comes with a cost. When using magic with an attempt, the user draws on their own energy and loses `1d4` HP. If they know healing magic they might try to use their turn to heal themselves, but even using healing magic costs `1d4` HP, and there's a small chance that a successful attempt could actually *cost* the user health instead of healing them. Magic has a fickle, unpredictable nature in this game and should be used responsibly.
+
+**Critical Effect**
+When a player makes an attempt and rolls a natural 20 (a 20 before bonuses or penalties), they roll `1d4+1d12+CR` where CR is their critical effect score.
+
+### Creating a Character
+There are two methods to character creation: **point buy** and **random**.
+
+The **point buy** method provides the player with **5 points** to spend on any trait or effect they want. Points can be taken from traits or effects to increase the amount of points that can be distributed, but will leave the trait/effect with a penalty on those rolls. Again, no trait or effect can be lower than -5 or higher than 5.
+
+Under the **random** method the player simply rolls `1d4-2` for each trait and effect, giving them starting scores of -1, +0, +1, or +2 at random. This is a riskier method and you can't get a starting bonus higher than +2 to any trait or effect, but it can definitely lead to some fun and interesting starting builds.
+
+## Advantage and Disadvantage
+Sometimes the task is easier or harder than expected based on the circumstances or situation at hand. Rather than changing the *Air of Fate*, the game master can apply advantage or disadvantage to a roll. Advantage means rolling `2d20` and keeping the higher result whereas disadvantage means rolling `2d20` and keeping the lower result. The effect that advantage and disadvantage have on a roll can be significant, so it should be used thoughtfully.
+
+If the GM wants to give a minor advantage or disadvantage to a task, they can always call it "easy" or "hard" and just add or subtract 2 from the *Air of Fate* for attempts at that specific task. Just remember that the highest the *Air of Fate* can ever be is 18.
+
+## Perks and Quirks
+Characters start with **2 perks** and **2 quirks**. These are narrative, descriptive aspects of the character that give them unique strengths and weaknesses based on their shape, history, ancestry, studies, training, divine favor/disdain, etc. 
+
+Perks and quirks have effects that apply under specific circumstances. For example, perks might include wings for flight, +2 damage when attacking undead creatures, or advantage on all sneak attacks. Quirks, on the other hand, could include things like a paralyzing fear or fire, -2 armor in hot climates, or disadvantage on intimidation attempts.
+
+Perks and quirks are story-based. When the character makes a significant choice or acts in a particularly risky or life-altering way, the GM can remove, augment, or add a perk/quirk to your character. They might be temporary or permanent, but players should ***always*** be warned ahead of time when a choice they are making or an action they are taking might have a lasting effect on their character.
+
+## Items and Inventory
+Characters carry helpful objects with them such as currency, clothing, armor, tools, weapons, spellbooks, potions, and more. Keep track of the things to which your character has access and update this list as they gain and lose items throughout their journey. Some special items might increase your character's ability to avoid damage, heal a certain amount of HP, or reduce the cost for spellcasting. Keep the item's effect low, and if it does have a high effect consider adding a cost to using the item in the form of trait/effect penalties, receiving disadvantage more often, etc. 
+
+> The GM and PCs should work together to tell the best story possible, not to compete with one another.
+
+## Armor and HP
+Every character has armor and hit points (HP). Hostile creatures in the game world might attack the PCs, but to land an attack and deal damage they must roll higher than your character’s armor, which is 10 plus bonuses/penalties from the character's dexterity or constitution, the armor they are wearing, and their perks/quirks. A character's armor cannot be higher than 18. For characters, hit points represent the amount of damage they can take before they fall unconscious.
+
+On their turn, an unconscious character can roll `1d20`. On a critical hit they wake on their own with 1 HP. If they roll a critical fail they permanently lose one point of their constitution bonus. Allies and NPCs can help the character by healing them, defending them, or removing them from danger, but if their HP reaches -10 or they roll a critical fail with a constitution of -1 or less, they die.
+
+How your group handles death is up to you. Do they continue adventuring as a ghost? Will the party brave the spectral plane to retrieve their ally? Or was their death honorable and they pass on to the next life? Maybe it's a darker story and the character is gone forever, with no chance of bringing them back. You, as a group, decide.
+
+## Failure
+If a character doesn’t roll higher than the *Air of Fate* the GM can resolve the failure one of two ways: introduce a narrative twist or add a temporary quirk. Twists change the situation and give the player new choices, whereas quirks act as a cost for the action’s success. For example, a failed roll on pickpocketing could either see the thief caught red-handed or the stolen item could be terrifying and temporarily add a “scared straight” quirk. If the player rolls a natural 1, the quirk they take becomes permanent.
+
+## Character Progression
+When the PCs accomplish something great, such as at the end of an story arc or after a significant victory, the GM might let them level up. This means they add `2d4` to their max HP and receive 1 extra point to apply to a trait or effect. 
+
+> Characters can re-roll one of the `2d4` HP increase dice for each bonus CON point they have.
+
+Characters should grow and change throughout the game, not necessarily at specific intervals. If a PC gets to be level 20, they no longer receive additional HP or bonus points, and are considered to be at their most powerful, having met their potential. Whatever this means to your character or your group is up to you. The character might rule a kingdom, mentor a new generation of adventurers, or maybe their feats have attracted the attention of some higher entity who either challenges them, rewards them, or teleports them to a new realm where they enter a whole new level of challenge and start fresh on the progression track, losing the benefits of their old life. 
+
+Get creative and have fun!
