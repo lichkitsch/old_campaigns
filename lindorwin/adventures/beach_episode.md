@@ -9,6 +9,9 @@ Petra requests that the group take a break and visit the family island for a wee
 
 During the trip to the island a storm builds up and eventually becomes big enough to scare Ifir, who finds comfort via sex with Ezrah. Post-coitus, Ifir confronts Ezrah about his lie regarding her two forms.
 
+**Stopping Point**
+"Maybe it would be better for the baby to feel things like you do."
+
 After landing on the island the party drops their stuff off at the Spellsong beach house, a small manor situated on a hill overlooking the beach. There's a small garden, hot springs, and a forest on the island. It is attended by a married couple, Pippa and Corona, and their three-legged pet bugbear named Porkchop.
 
 Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, escaped the dark to find peaceful simple life) watch over the island year round. They seem surprised to have visitors. "Remy and the former King and Queen were only just here, usually there's some time inbetween guests is all." The two claim to have to prepare the manor for the group and set them up with a campfire on the beach. (They like having the island to themselves because they're free to be as kinky as they want when they're alone.)

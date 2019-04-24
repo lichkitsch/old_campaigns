@@ -1,5 +1,7 @@
 Luna asks Dama if he still carried the ring she gave him when he was young. Turns out, the ring belonged to his father Rul, whom Dama was told died protecting the Mesha, a lie from a mother to her son to preserve the honorable image he had of his father.
 
+Lunas experiments were a partnership with Elduin to create an army for him.
+
 Luna's experiments were in search of the power to build an army that her and Rul could use to defend and expand their kingdom, which suffered under Lotelias and Petra's heavy taxation on goods. Rul, seeing an opportune timing with Princess Mira's wedding to Remy, levied a threat against Lotelias and interrupted Luna's research, drinking an incomplete potion which transformed him into the Scaled One.
 
 Rul attacked the Mesha and he made it as far as the desert before Lotelias and his men arrived and drove him back into the jungle and underground. Lotelias demanded to see Rul, but he was gone. Luna's servant leaked the information of what happened with Rul to one of Lotelias' men and the Mesha were given an ultimatum. Exile their leader and bow to the crown, or die.
