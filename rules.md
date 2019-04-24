@@ -1,7 +1,7 @@
 # How to Play
 Role-playing games (RPGs) are all about collaborative storytelling, or at least they should be. This system provides a basic framework for creating and playing your own custom tabletop RPGs. You can swap out magic for alien technology or some other special thing to fit your game's setting and genre, but for the most part these rules are kept relatively generic to allow for many styles of play in almost any setting or scenario.
 
-Take turns clockwise, starting with the game master (GM). The GM describes the setting and gives the players opportunities to make choices, attempts, and actions that will move the narrative forward.
+Take turns clockwise, starting with the game master (GM). The GM describes the setting and gives the players opportunities to make choices, attempts, and actions that will move the narrative forward, while the players decide how they want their characters to act and react to the events of the story and roll dice to determine the outcome of any uncertain events.
 
 ## Actions and Attempts
 The fluctuating level of difficulty in the game is represented by the *Air of Fate*, a visible target number between 3 and 18. When the player wants to do something they describe the action and roll `1d20`, adding any relevant bonuses or penalties, trying to get a result that is higher than the *Air of Fate*.
