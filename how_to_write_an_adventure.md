@@ -1,4 +1,6 @@
 # How to Write an Adventure
+Writing compelling adventures is the main responsibility of the game master. This "method" is really just some basic advice for constructing any kind of adventure, making it fast and simple to produce well-paced encounters to challenge, excite, and entertain your players. You don't have to be a great writer to run a fun adventure, but 
+hopefully with some extra thought, creativity, and practice you will be managing entire campaigns that keep your players at the edge of their seats.
 
 ## Plot Hook
 Create a scenario, or NPC, that introduces a problem that needs fixing. You can and should include multiple hooks in a location so that the party can come across them on their own and have a choice of which hook they want to follow. If they leave before a hook is used, repurpose it later on down the road or twist it so that walking away from the adventure leads to consequences.
@@ -6,24 +8,24 @@ Create a scenario, or NPC, that introduces a problem that needs fixing. You can 
 **Examples**
 - The party comes into a new town with a recent series of strange disappearances.
 - The party is falsely accused of a crime and must escape or prove their innocence.
-- There's talk of a treasure trove in a abandoned, flooded city not far from here.
+- There's talk of a treasure trove in an abandoned, flooded city not far from here.
 - One of the party members is kidnapped in the dead of night and must be rescued.
-- A relative of a party member shows up asking for help with paying off a debt.
+- A relative of a party member shows up asking for help to pay off a debt.
 
 ## Guardian at the Gate
-There's one big obstacle that's kept the problem from being solved thus far. This could be a literal guardian posted at the dungeon's entrance, but often times you want to be a little more metaphorical.
+There's one big obstacle that's kept the problem from being solved thus far, an obstacle that your party must overcome to even start the adventure. This could be a literal guardian posted at the dungeon's entrance, but often times you want to be a little more metaphorical.
 
 **Examples**
 - The cave entrance is littered with bones and blocked by a large, sleeping troll.
 - The college only allows entry to students and faculty, a rule enforced by a dangerous magical barrier.
-- The NPC from the story hook is murdered and the clues surrounding their death guide the party forward.
+- The NPC from the story hook is murdered and the mystery surrounding their death acts as the first obstacle.
 - The island on which the treasure is located is difficult to find because it changes locations.
-- The party must gain the favor of a animalistic deity before gaining entry to its forest.
+- The party must gain the favor of an animalistic deity before gaining entry to its forest.
 
 ## The Minor Challenge
 Once the party is past the "gate" and into the meat of the adventure, they immediately face their first challenge. Challenges should focus on one of the three pillars of adventure RPGs: exploration, social interaction, and combat.
 
-### Lay of the Land
+### Clues, Puzzles, and Traps
 Exploration encounters will involve collecting information from the environment and solving puzzles or traps that keep the party from progressing.
 
 **Examples**
@@ -67,5 +69,4 @@ The second to last scene is the major challenge. This is the big climax, the mom
 The final scene reveals something to the party as a reward for overcoming the climax. This could be treasure, reputation, relationships, titles, etc. The party might also find that the reward they expected is not there, and there is a new story hook that will lead into the next adventure.
 
 **Examples**
-- The alchemist's elixir of life is a dud, but it makes for a surprisingly tasty drink and the party has the recipe.
 

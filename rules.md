@@ -28,30 +28,32 @@ Actions and attempts are modified by bonuses and penalties, the simplest of whic
 | Charisma | CHA | Appeal, allure, leadership, and manipulation |
 
 ### Effects
-**Basic Effect**
-Players roll `1d4` on all successful rolls, but they only add their basic effect score if the attempt is not aided by tools, magic, or a natural 20.
+Basic Effect
+: Players roll `1d4` on all successful rolls, but they only add their basic effect score if the attempt is not aided by tools, magic, or a natural 20.
 
-**Tool Effect**
-When a player is using a tool or weapon to aid in an attempt, they roll `1d4+1d6+TL` where TL is their tool effect score.
+Tool Effect
+: When a player is using a tool or weapon to aid in an attempt, they roll `1d4+1d6+TL` where TL is their tool effect score.
 
-> Poisons and potions count as tools, as do lockpicks, animal companions, and non-magical projectiles.
+: > Poisons and potions count as tools, as do lockpicks, animal companions, and non-magical projectiles.
 
-**Magic Effect**
-When a player is using magic to aid in an attempt, they roll `1d4+1d8+MG` where MG is their magic effect score.
+Magic Effect
+: When a player is using magic to aid in an attempt, they roll `1d4+1d8+MG` where MG is their magic effect score.
 
-> Magic costs HP because it draws energy from the caster. When a player rolls for magic effect, they subtract the result of their `1d4` roll from their HP. If they know healing magic they might try to use their turn to heal themselves, but even healing magic costs HP to cast. Magic has a fickle, unpredictable nature in this game and should be used responsibly.
+: > Magic costs HP because it draws energy from the caster. When a player rolls for magic effect, they subtract the result of their `1d4` roll from their HP. If they know healing magic they might try to use their turn to heal themselves, but even healing magic costs HP to cast. Magic has a fickle, unpredictable nature in this game and should be used responsibly.
 
-**Critical Effect**
-When a player makes an attempt and rolls a **natural 20** (a 20 before bonuses or penalties), they roll `1d4+1d12+CR` where CR is their critical effect score.
+Critical Effect
+: When a player makes an attempt and rolls a **natural 20** (a 20 before bonuses or penalties), they roll `1d4+1d12+CR` where CR is their critical effect score.
 
 ### Creating a Character
 There are two methods to character creation: **point buy** and **random**.
 
-The **point buy** method provides the player with **5 points** to spend on any trait or effect they want. Points can be taken from traits or effects to increase the amount of points that can be distributed, but will leave the trait/effect with a penalty on those rolls. Again, no trait or effect can be lower than -5 or higher than 5.
+Point Buy
+: The **point buy** method provides the player with **5 points** to spend on any trait or effect they want. Points can be taken from traits or effects to increase the amount of points that can be distributed, but will leave the trait/effect with a penalty on those rolls. Again, no trait or effect can be lower than -5 or higher than 5.
 
-Under the **random** method the player simply rolls `1d4-2` for each trait and effect, giving them starting scores of -1, +0, +1, or +2 at random. This is a riskier method and you can't get a starting bonus higher than +2 to any trait or effect, but it can definitely lead to some fun and interesting starting builds.
+Random
+: Under the **random** method the player simply rolls `1d4-2` for each trait and effect, giving them starting scores of -1, +0, +1, or +2 at random. This is a riskier method and you can't get a starting bonus higher than +2 to any trait or effect, but it can definitely lead to some fun and interesting starting builds.
 
-> Once you have these stats, add details like a name, backstory, profession, etc.
+Once you have these basic stats, add details to describe your character like a name, backstory, profession, etc.
 
 ## Advantage and Disadvantage
 Sometimes the task is easier or harder than expected based on the circumstances or situation at hand. Rather than changing the *Air of Fate*, the game master can apply advantage or disadvantage to a roll. Advantage means rolling `2d20` and keeping the higher result whereas disadvantage means rolling `2d20` and keeping the lower result. The effect that advantage and disadvantage have on a roll can be significant, so it should be used thoughtfully.
