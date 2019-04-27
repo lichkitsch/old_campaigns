@@ -16,6 +16,8 @@ After landing on the island the party unloads near the Spellsong beach house, a 
 
 Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, escaped the dark to find peaceful simple life) watch over the island year round. They seem surprised to have visitors. "Remy and the former King and Queen were only just here, usually there's some time inbetween guests is all." The two claim to have to prepare the manor for the group and set them up with a campfire on the beach. (They like having the island to themselves because they're free to be as kinky as they want when they're alone.)
 
+**Stopping Point**
+Dama and Ifir were walking along the beach when the lunch bell went off
 While sitting around the campfire the group starts to tell spooky stories:
 
 1. Dama's okay at it (ghost of a mad wizard haunting the air where his tower used to stand)
