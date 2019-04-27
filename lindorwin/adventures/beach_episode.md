@@ -18,6 +18,12 @@ Pippa (female human, asian, spry) and her wife Corona (female demon, reformed, e
 
 **Stopping Point**
 Dama and Ifir were walking along the beach when the lunch bell went off
+
+**Stopping Point**
+"Are you up for anything?"
+"What are you up for?"
+Dama pulls her down into the bed, her head on his chest.
+
 While sitting around the campfire the group starts to tell spooky stories:
 
 1. Dama's okay at it (ghost of a mad wizard haunting the air where his tower used to stand)
