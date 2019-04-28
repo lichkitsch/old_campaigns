@@ -18,7 +18,7 @@ To do something you could fail, roll 1d20 and add...
 If higher than the *Air of Fate*, the action is successful.
 
 *Air of Fate*
-: Publicly visible number between 8 and 18 thet represents the current level of challenge for the players.
+: Publicly visible number between 8 and 18 that represents the current level of challenge for the players.
 
 If the outcome is not pass/fail, roll...
 
