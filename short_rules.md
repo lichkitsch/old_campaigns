@@ -2,7 +2,7 @@ Roll `1d4-2` for the following:
 
 💪 🎯 💊 📚 👁 💖 ✋ 🛠 🔮 ⭐️ 
 
-🛡 = 10 + 🎯  
+🛡= 10 + 🎯  
 ❤️ = 10 + 💊
 
 When success is not guaranteed, roll 1d20 and add...

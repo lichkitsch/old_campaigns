@@ -1,14 +1,14 @@
-# How to Play
+# How to Play dnduet
 Role-playing games (RPGs) are all about collaborative storytelling, or at least they should be. This system provides a basic framework for creating and playing your own custom tabletop RPGs. You can swap out magic for alien technology or some other special thing to fit your game's setting and genre, but for the most part these rules are kept relatively generic to allow for many styles of play in almost any setting or scenario.
 
-Take turns clockwise, starting with the game master (GM). The GM describes the setting and gives the players opportunities to make choices, attempts, and actions that will move the narrative forward, while the players decide how they want their characters to react to the events of the story and roll dice to determine the outcome of any uncertain events.
+The GM describes the setting and gives the players opportunities to make choices, attempt to complete tasks and overcome obstacles, and take actions that will move the narrative forward, while the players decide how they want their characters to react to the events of the story and roll dice to determine the outcome of any uncertain events.
 
 ## Actions and Attempts
-The fluctuating level of difficulty in the game is represented by the *Air of Fate*, a publicly visible target number between 3 and 18. When the player wants to do something they describe the action and roll `1d20`, adding any relevant bonuses or penalties, trying to get a result that is higher than the *Air of Fate*.
+The fluctuating level of difficulty in the game is represented by the *Air of Fate*, a publicly visible target number between 8 and 18. When the player wants to do something they describe the action and roll `1d20`, adding any relevant bonuses or penalties, trying to get a result that is higher than the *Air of Fate*.
 
-> The *Air of Fate* changes, increasing as the level of danger or difficulty the characters are facing increases and dropping to lower levels at times of rest.
+> The *Air of Fate* changes, increasing with the level of danger or difficulty the characters are facing and dropping to lower levels at times of rest.
 
-There are actions, which are pass/fail events, and there are tasks. Tasks have hit points (HP), visually represented by hearts, that must be reduced to zero before they are completed. Making a successful attempt at a task means the player can roll their effect dice (plus the effect bonus, if applicable), and subtract the result from the task's HP. 1 heart equals 10 HP, so a locked chest with 1 heart will take 10 effect to unlock it or break it open. This is also how combat works, at least against non-player characters (NPCs) and creatures. Think of "defeat a hostile target" as a task to complete, which could mean capturing them, forcing them to surrender, or killing them, depending on the context.
+There are actions, which are pass/fail, and there are tasks. Tasks have hit points (HP), visually represented by hearts, that must be reduced to zero before they are completed. Making a successful attempt at a task means the player can roll their effect dice (plus the effect bonus, if applicable), and subtract the result from the task's HP. 1 heart equals 10 HP, so a locked chest with 1 heart will take 10 effect to unlock it or break it open. This is also how combat works, at least against non-player characters (NPCs) and creatures. Think of "defeat a hostile target" as a task to complete, which could mean capturing them, forcing them to surrender, or killing them, depending on the context.
 
 If a task is made on a willing party, such as healing a wounded ally, the action roll is optional and would only be taken if the actor wants to risk a failure for the chance at a critical roll. Otherwise the actor can assume success and skip to rolling for effect.
 
