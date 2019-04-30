@@ -1,17 +1,13 @@
 Roll `1d4-2` for the following:
-**Traits**
-- Strength
-- Dexterity
-- Constitution
-- Intelligence
-- Wisdom
-- Charisma
 
-**Efforts**
-- Hands
-- Tools
-- Magic
-- Critical
+| Traits       | Effort   |
+|:------------:|:--------:|
+| Strength     | Hands    |
+| Dexterity    | Tools    |
+| Constitution | Magic    |
+| Intelligence | Critical |
+| Wisdom       |          |
+| Charisma     |          |
 
 To do something, roll `1d20` and add the most relevant score. If the result is higher than the *Air of Fate* then the action or attempt is successful.
 
