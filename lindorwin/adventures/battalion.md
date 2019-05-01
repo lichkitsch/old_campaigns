@@ -11,29 +11,31 @@ True to his word, Elduin sends a battalion of angels to Steson. After a long jou
 
 **Staff Sargeant Julius**
 HP 50 / AC 14  
-STR +3 / DEX -1 / CON +0 / INT +0 / WIS +1 / CHA +1  
-Hands +0 / Tools +3 / Magic +0 / Crit +0  
+STR +3 / DEX -1 / WIS +1 / CHA +1  
+Tools +3  
 Julius is a stern, apologetic man with a strong brow and a warhammer. Imposing, but a bit shorter than Ezrah.
 
 **Corporal Lynx**
 HP 40 / AC 11  
-STR +0 / DEX +2 / CON +2 / INT +1 / WIS -1 / CHA +0  
-Hands +0 / Tools +1 / Magic -1 / Crit +1  
+DEX +2 / CON +2 / INT +1 / WIS -1  
+Tools +1 / Magic -1 / Crit +1  
 Lynx is a wildcard, a quick DPS fighter with metal claw weapons. Sharp, quick, to the point.
 
 **Officer Cadet Vela**
 HP 30 / AC 12  
-STR +3 / DEX +2 / CON +0 / INT -1 / WIS +0 / CHA -1  
-Hands +2 / Tools +0 / Magic +1 / Crit +0  
+STR +3 / DEX +2 / INT -1 / CHA -1  
+Hands +2 / Magic +1  
 Vela is a kind, soft-spoken woman with strong defensive abilities and magic. Fights only when necessary.
 
 **Officer Cadet Carina**
 HP 30 / AC 12  
-STR +3 / DEX +1 / CON +1 / INT +2 / WIS +0 / CHA +0  
+STR +3 / DEX +1 / CON +1 / INT +2  
 Hands +1 / Tools -1 / Magic -1 / Crit +1  
 Carina is cold and mean, but is also Ifir's best bet at learning more about the squad and her father's plan.
 
 The city wasn't prepared to defend itself from 500 well-trained angels and was quickly brought under control by Lieutenant Colonel Ursa. They shut down the docks, and angels fill the streets and castle. Ifir is encouraged to stay indoors, like everyone else, but it's not long before the angels start to overstep their bounds and begin jailing people underneath the castle. Mira has retreated as well, fleeing the city with Elomar to their island in secret to keep her safe from the Silence.
+
+The team leaks to Ifir's friends that she is a spy for Elduin's army, which may have a harmful effect on their trust for her.
 
 ## Elduin's Military Structure
 1. Elduin, Keeper of the Light
