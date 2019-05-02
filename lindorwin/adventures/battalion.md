@@ -34,6 +34,13 @@ The city wasn't prepared to defend itself from 500 well-trained angels and was q
 
 The team leaks to Ifir's friends that she is a spy for Elduin's army, which may have a harmful effect on their trust for her.
 
+Why are the Silence after the royal family? To replace them? They clearly want to summon their demonic deity.
+
+Ancient Demon Emperor Rulomqo'leth (Devourer) (looks like an oni, large fangs and pointed ears)
+Rul? As in Dama's father Rul? Is the demon emperor related to Dama? Dama has no magic, maybe the demon emperor is weak against magic? Maybe that's why Rul was transformed into the Scaled One? His mother is clearly magical, but wasn't until the deal with a devil. Also who was the devil she made a deal with? Maybe the devil knew that bringing Rul back in his original form wasn't possible?
+
+The Silence are leaving the city through the sewers and catacombs.
+
 ## Elduin's Military Structure
 1. Elduin, Keeper of the Light
 2. Special Advisor: Ifir Spellsong / Polaris
