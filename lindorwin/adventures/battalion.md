@@ -1,6 +1,4 @@
 # Battalion
-
-## Exploration
 Lili has run away, confused and disillusioned by her first indirect contact with her deity. She left a note which the gnolls found and bring to Ifir that reads "God is an asshole??? Gone to sort this out." The gnolls, worried about Lili, leave the city in pursuit in hopes of bringing her back.
 
 Ezrah is on the mend but is human now. He's lost his tether to the Light and his magic is gone. While he misses it and the pain is unbearable some days, Ezrah stays positive and works hard at physical therapy. Maybe Ifir helps ease his pain late at night when everyone's asleep? (brown chicken, brown cow)
@@ -9,26 +7,27 @@ Dama has quit his job as a guard (a position he held for exactly one week) and h
 
 Salgrim has retreated into her room at the Willywock, barely leaving for days at a time. She doesn't say much and takes her meals back to her room, but when pressed she simply responds with "I'm getting so close..."
 
+## Exploration
 True to his word, Elduin sends a battalion of angels to Steson. After a long journey from the other side of the continent, 500 angels arrive in the city. They set up outposts, curfews, and patrols to search for the Silence, the cult that made the attempt on Mira's life and kidnapped Elomar. The battalion is led by Lieutenant Colonel Ursa, a thin ghost of a woman with a rapier at her side and a cold, gray stare. She butts heads with Captain Sophia but is quick to take command of the city, by Elduin's orders of course. A team of four angels are assigned to Ifir.
 
 **Staff Sargeant Julius** ❤️50 🛡14  
 💪3 🎯-1 💊0 📚0 👁1 😎1 🤲0 🛠3 🔮0 💯0  
-Julius is a stern, apologetic man with a strong brow and a warhammer. Imposing, but a bit shorter than Ezrah.
+Julius is a stern yet apologetic man with a strong brow and a warhammer. Imposing, but a bit shorter than Ezrah. Julius has a shaved head and a square jaw, but otherwise lean features.
 
 ---
-**Corporal Lynx** ❤️40 🛡11  
-💪0 🎯2 💊2 📚1 👁-1 😎0 🤲0 🛠1 🔮-1 💯1  
-Lynx is a wildcard, a quick DPS fighter with metal claw weapons. Sharp, quick, to the point.
-
----
-**Officer Cadet Vela** ❤️30 🛡12  
+**Corporal Vela** ❤️40 🛡12  
 💪3 🎯2 💊0 📚-1 👁0 😎-1 🤲2 🛠0 🔮1 💯0  
-Vela is a kind, soft-spoken woman with strong defensive abilities and magic. Fights only when necessary.
+Vela is a kind, soft-spoken woman with strong defensive abilities and magic. Fights only when necessary. She's large, with dark skin, black hair and soft features.
+
+---
+**Officer Cadet Lynx** ❤️30 🛡11  
+💪0 🎯2 💊2 📚1 👁-1 😎0 🤲0 🛠1 🔮-1 💯1  
+Lynx is a wildcard, a quick DPS fighter with metal claw weapons. Sharp, quick, to the point. She has sharp features as well, with short, spiky auburn haid and freckles across her face.
 
 ---
 **Officer Cadet Carina** ❤️30 🛡12  
 💪3 🎯1 💊1 📚2 👁0 😎0 🤲1 🛠-1 🔮-1 💯1  
-Carina is cold and mean, but is also Ifir's best bet at learning more about the squad and her father's plan.
+Carina is cold and mean, and while she's knowledgable of Elduin's plans she is a snitch working for Elduin and L.G. Ursa. She's snippy and fights with two javelins. She's tall and willowy and has a smug smile.
 
 The city wasn't prepared to defend itself from 500 well-trained angels and was quickly brought under control by Lieutenant Colonel Ursa. They shut down the docks, and angels fill the streets and castle. Ifir is encouraged to stay indoors, like everyone else, but it's not long before the angels start to overstep their bounds and begin jailing people underneath the castle. Mira has retreated as well, fleeing the city with Elomar, Yuna, and Setra to their island in secret to keep her safe from the Silence.
 
@@ -63,7 +62,7 @@ The man once known as Silas refused healing and when they tried to give him a pr
 - The Silence are leaving the city through the sewers and catacombs.
 - Dama is hiding something. (Dama doesn't know about his lineage, will claim that the thing Ifir didn't know was that he was planning to confront his mother again. He wouldn't know what to say but feels like he didn't get the chance to properly chew her out for how she abandoned him.)
 
-While some facts can be tied together, much of what they say cannot be trusted.
+While some facts can be tied together, much of what they say cannot be trusted. On her way out, Ifir is slipped a second piece of paper. This one reads "secret friend, bad father".
 
 ## Trial 2 - Test of Mind
 After talking the team into letting her visit with Dama, Ifir finds out that he's been framed for a murder that happened down by the docks, apparently over a gambling dispute. Dama swears he didn't do it, but there's dried blood on his shirt and he was found wielding a bloody knife. According to Dama, he'd found the victim still alive and was trying to help stop the bleeding to save him. 
@@ -80,46 +79,15 @@ Obviously the victim pulled a heist on the Mason's Guild and stole a box of rare
 When questioned on this, Dama will say that he told the man "I'll bill you." Dama was making a deal with the man, a smuggler, to bring him a special gemstone. Dama was planning to have it cut and set into a silver band for Ifir as a gift when she had the baby, but the shipment was going to be late. Dama didn't want to admit this to the angels, as smuggling is also illegal and they would've ruined the surprise for Ifir. 
 
 ## Twist/Setback
-
+On her way back to see Dama, Ifir is slipped another piece of paper, this time with a small blue disk included. This note reads "danger bigger, blue safety right time".
 
 ## Climax
-At Dama's trial, Ifir is given the opportunity to present the evidence and lay out the events for the acting judge L.G. Ursa. What Ifir doesn't know is that Dama wasn't arrested for the murder, which the angels already solved and arrested the Mason's guildmaster before he could leave the city. Dama was actually arrested for raising his sword to Elduin those few weeks back. L.G. Ursa calls for Dama's execution.
+At Dama's trial, Ifir is given the opportunity to present the evidence and lay out the events for the acting judge L.G. Ursa. What Ifir doesn't know is that Dama wasn't only arrested for the murder. Dama was also arrested for raising his sword to Elduin those few weeks back. 
 
+L.G. Ursa calls for Dama's execution.
+
+When things get bad, the blue portal-coin activates and Vela gives Ifir a wink and a helping hand through the portal before turning to join Julius in holding the angels, including Lynx and Carina, back.
 
 ## Revelation
-Someone on the team told Dama that Ifir worked for Elduin as a spy. Dama says "I can understand why you didn't tell me." but instead Ifir hears "Why didn't you tell me?" Elduin's influence on Ifir's senses is growing stronger. 
-
-Why are the Silence after the royal family? To replace them? They clearly want to summon their demonic deity.
-
-Ancient Demon Emperor Rulomqo'leth (Devourer) (looks like an oni, large fangs and pointed ears)
-Rul? As in Dama's father Rul? Is the demon emperor related to Dama? Dama has no magic, maybe the demon emperor is weak against magic? Maybe that's why Rul was transformed into the Scaled One? His mother is clearly magical, but wasn't until the deal with a devil. Also who was the devil she made a deal with? Maybe the devil knew that bringing Rul back in his original form wasn't possible?
-
-
-
-
-
-
-
-## Elduin's Military Structure
-1. Elduin, Keeper of the Light
-2. Special Advisor: Ifir Spellsong / Polaris
-3. War Councilman (4): Cassiopeia / Scorpius / Crux / Cancer
-4. Field Marshal (8): Leo / Canis Major / Andromeda / Taurus / Saggitarius / Lyra / Aquarius / Cygnus
-5. General (16): Corvus, Ursa Major, Cepheus, Grus, Draco, Delphinius, Capricornus, Pegasus, Perseus, Gemini, Crater, Auriga, Orion, Hydra, Borealis, Pisces
-6. Lieutenant General (32) 
-7. Major General (64) 
-8. Brigadier General (128) 
-9. Colonel (256) 
-10. Lieutenant Colonel (512) 
-11. Major (1,024) 
-12. Captain (2,056) 
-13. First Lieutenant (4,112) 
-14. Second Lieutenant (8,224) 
-15. Warrant Officer (16,448) 
-16. Seargeant (32,896) 
-17. Staff Sargeant (65,792) 
-18. Officer Cadet (131,584) 
-19. Corporal (263,168) - Called upon frequently
-20. Private (526,336) - Only leave the Light for brute force battles
-21. Trainee (1,052,672) - Do not leave the Light
+The blue disk is a portal-coin which opens up to the forest outside of White Vale. Ifir, Dama, and Ezrah are met by Anabushka, Ilien, and Polly in the woods, where Ilien explains. She ran away from the Light because she was found out as a traitor. She didn't meet Polly and Ana until after she was already in hiding here in White Vale. According to Ilien there's a growing unrest in the angels, many of whom don't think Elduin is working for good. Anabushka claims to know of a way to defeat Elduin, but that it won't be easy. Ilien seems to believe that Ifir's past as a spy working for Elduin might come in handy for overthrowing him. This alerts Dama, who didn't know she was a spy. Dama says "I can understand why you didn't tell me." but instead Ifir hears "Why didn't you tell me?" Elduin's influence on Ifir's senses is growing stronger. 
 
