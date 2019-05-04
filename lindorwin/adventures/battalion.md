@@ -7,6 +7,13 @@ Dama has quit his job as a guard (a position he held for exactly one week) and h
 
 Salgrim has retreated into her room at the Willywock, barely leaving for days at a time. She doesn't say much and takes her meals back to her room, but when pressed she simply responds with "I'm getting so close..."
 
+Mama Juniper and Nax go on vacation, leaving Sal with the master key. Sal's tired from her work, but manages to tell Ifir the sex of the baby; it's a girl.
+
+Ifir meant "Leave it" to be about her and not necessarily about Dama.
+
+**Stopping Point**
+Knock at the door after seeing angels flying into the city.
+
 ## Exploration
 True to his word, Elduin sends a battalion of angels to Steson. After a long journey from the other side of the continent, 500 angels arrive in the city. They set up outposts, curfews, and patrols to search for the Silence, the cult that made the attempt on Mira's life and kidnapped Elomar. The battalion is led by Lieutenant Colonel Ursa, a thin ghost of a woman with a rapier at her side and a cold, gray stare. She butts heads with Captain Sophia but is quick to take command of the city, by Elduin's orders of course. A team of four angels are assigned to Ifir.
 
