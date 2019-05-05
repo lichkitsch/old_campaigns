@@ -85,6 +85,9 @@ Obviously the victim pulled a heist on the Mason's Guild and stole a box of rare
 
 When questioned on this, Dama will say that he told the man "I'll bill you." Dama was making a deal with the man, a smuggler, to bring him a special gemstone. Dama was planning to have it cut and set into a silver band for Ifir as a gift when she had the baby, but the shipment was going to be late. Dama didn't want to admit this to the angels, as smuggling is also illegal and they would've ruined the surprise for Ifir. 
 
+**Stopping Point**
+Ezrah went to clear Dama's name, Ifir went back to her room to read the note and then masturbated while screaming Ursa, Carina, Lynx, and Vela's names.
+
 ## Twist/Setback
 On her way back to see Dama, Ifir is slipped another piece of paper, this time with a small blue disk included. This note reads "danger bigger, blue safety right time".
 
