@@ -99,5 +99,26 @@ L.G. Ursa calls for Dama's execution.
 When things get bad, the blue portal-coin activates and Vela gives Ifir a wink and a helping hand through the portal before turning to join Julius in holding the angels, including Lynx and Carina, back.
 
 ## Revelation
-The blue disk is a portal-coin which opens up to the forest outside of White Vale. Ifir, Dama, and Ezrah are met by Anabushka, Ilien, and Polly in the woods, where Ilien explains. She ran away from the Light because she was found out as a traitor. She didn't meet Polly and Ana until after she was already in hiding here in White Vale. According to Ilien there's a growing unrest in the angels, many of whom don't think Elduin is working for good. Anabushka claims to know of a way to defeat Elduin, but that it won't be easy. Ilien seems to believe that Ifir's past as a spy working for Elduin might come in handy for overthrowing him. This alerts Dama, who didn't know she was a spy. Dama says "I can understand why you didn't tell me." but instead Ifir hears "Why didn't you tell me?" Elduin's influence on Ifir's senses is growing stronger. 
+The blue disk is a portal-coin which opens up to the forest outside of White Vale. 
 
+### Stopping Point
+Ifir, Dama, Ezrah, Salgrim, Julius, Vela, and Ursa came through the portal that the coin produced. They landed in a snowdrift in the forest near White Vale. Ursa sheathed her sword, recognizing that she's outnumbered and outgunned. Polly appears from the forest and invites the group back to White Vale for drinks and to rest up.
+
+## Epilogue
+Ilien isn't surprised to see Ifir again, but instead she admits that she's been helping run an underground revoltution against Elduin. She escaped the Light and came to White Vale to hide and collect information from afar. 
+
+Increased demonic activity => took longer for angels to reach Steson
+100 years without gaining ground against the Dark, 12 months of losing ground
+Unrest in the angels, many secretly planning revolution but no one has stepped up to be the leader
+Ilien uses this to try and convert Ursa, who truly only cares about the mission and not so much about her superiors.
+
+Without Ursa, the angels stationed in Steson put the city on lockdown. Nobody in, nobody out. Several are sent in different directions on a search for Ifir and Ursa.
+
+### Stopping Point
+The angels stay back to speak with Ilien and Ifir, Dama, Ezrah, and Salgrim join Polly in the mess hall for hot food and drinks.
+
+Ifir sees that they're having "talent night" in the mess hall as a way to keep morale up.
+
+"I can understand why you didn't tell me." => "Why didn't you tell me?"
+
+Lomund -> Beetle Wilds -> convince Luna to become the vessel for Rul
