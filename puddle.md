@@ -16,19 +16,18 @@
 (if yes and hp roll effect dice)
 
 ## extra modifiers
-| modifier      | trait/effect |
+| perk/quirk    | trait/effect |
 |:-------------:|:------------:|
-| advantage    $| strength     |
-| +2 points    $| dexterity    |
+| advantage     | strength     |
+| +2 points     | dexterity    |
 | +1 points     | constitution | 
 | -1 points     | intelligence |
-| -2 points    $| wisdom       |
-| disadvantage $| charisma     |
+| -2 points     | wisdom       |
+| disadvantage  | charisma     |
 |               | unaided      |
 |               | using tools  |
 |               | using magic  |
 |               | critical     |
 |               | armor class  |
-$: perk or quirk
 
 traits and effects cannot be modded to be higher than +8
