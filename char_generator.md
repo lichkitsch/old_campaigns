@@ -1,18 +1,19 @@
 # Character Generator
 
-|        | ♣ Body         | ♥ Heart         | ♠ Mind                          | ♦ Resources        |
-|        | *Race*         | *Background*    | *Class and Move*                |                    | 
-| **A**  | Dragonborn B+3 | Folk Hero   H+3 | Wizard      M+3 Fireball/Freeze | Lucky Charm        |
-| **K**  | Devil      B+2 | Entertainer H+2 | Necromancer M+2 Raise Dead      | Bag of Coins       |
-| **Q**  | Angel      B+2 | Acolyte     H+2 | Cleric      M+2 Healing Hands   | Encyclopedia       |
-| **J**  | Orc        B+1 | Noble       H+1 | Druid       M+1 Animal Ally     | King's Crest       |
-| **10** | Dwarf      B+1 | Knight      H+1 | Paladin     M+1 Holy Power      | Thieves' Tools     |
-| **9**  | Elf        B+1 | Spy         H+1 | Devout      M+1 Holy Insight    | Magical Instrument |
-| **8**  | Human      B+0 | Merchant    H+0 | Bard        M+0 Inspiration     | Ranged Weapon      |
-| **7**  | Human      B+0 | Pirate      H+0 | Ranger      M+0 Track Creature  | Bladed Weapon      |
-| **6**  | Human      B+0 | Soldier     H+0 | Monk        M+0 Unarmed Strike  | Blunt Weapon       |
-| **5**  | Gnome      B-1 | Charlatan   H-1 | Warrior     M-1 Second Wind     | Musical Instrument |
-| **4**  | Halfling   B-1 | Hermit      H-1 | Rogue       M-1 Pickpocket      | Camping Gear       |
-| **3**  | Skeleton   B-1 | Urchin      H-1 | Sorcerer    M-1 Summon Creature | Walking Stick      |
-| **2**  | Ghost      B-2 | Criminal    H-2 | Barbarian   M-2 Rage            | Wanted Poster      |
-| **-**  | Human      B+0 | Amnesia     H+0 | Freelancer  M+0 Fast Learner    | Empty Pack         |
+|        | ♣ STR/CON      | ♥ DEX/CHA         | ♠ INT/WIS                       | ♦ Resources        |
+|:------:|:-------------- |:----------------- |:------------------------------- |:------------------:|
+|        | *Race (max 2)* | *History (max 2)* | *Class and Move (max 2)*        |                    | 
+| **A**  | Dragonborn +3  | Folk Hero   +3    | Wizard      +3, Fireball/Freeze | Lucky Charm        |
+| **K**  | Devil      +2  | Entertainer +2    | Necromancer +2, Raise Dead      | King's Favor       |
+| **Q**  | Angel      +2  | Acolyte     +2    | Cleric      +2, Healing Touch   | Useful Book        |
+| **J**  | Orc        +1  | Noble       +1    | Druid       +1, Animal Ally     | Bag of Coins       |
+| **10** | Dwarf      +1  | Knight      +1    | Paladin     +1, Holy Power      | Professional Tool  |
+| **9**  | Elf        +1  | Spy         +1    | Devout      +1, Holy Insight    | Magical Instrument |
+| **8**  | Human      +0  | Merchant    +0    | Bard        +0, Inspiration     | Ranged Weapon      |
+| **7**  | Human      +0  | Pirate      +0    | Ranger      +0, Track Creature  | Bladed Weapon      |
+| **6**  | Human      +0  | Soldier     +0    | Monk        +0, Unarmed Strike  | Blunt Weapon       |
+| **5**  | Gnome      -1  | Charlatan   -1    | Warrior     -1, Second Wind     | Musical Instrument |
+| **4**  | Halfling   -1  | Hermit      -1    | Rogue       -1, Pickpocket      | Something to Eat   |
+| **3**  | Skeleton   -1  | Urchin      -1    | Sorcerer    -1, Summon Creature | Walking Stick      |
+| **2**  | Ghost      -2  | Criminal    -2    | Barbarian   -2, Rage            | Wanted Poster      |
+| **-**  | Human      +0  | Farmer      +0    | Freelancer  +0, Fast Learner    | Empty Pack         |
