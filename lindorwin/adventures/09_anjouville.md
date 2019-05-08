@@ -1,4 +1,4 @@
-# Salgrim's Home
+# Anjouville
 
 ## Setup
 The party is together in White Vale, preparing to journey to Salgrim's home, the gnomish city of Anjouville (ahn-zho-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
