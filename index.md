@@ -1,10 +1,6 @@
 # Lindorwin
 Lindorwin is a medium-sized world with a varied landscape. The world is fifty percent water and the land has everything from mountains and swamps to deserts and wastes. Lindorwin exists at the nexus between 7 other planes. These other planes blend and bleed into Lindorwin, bringing strange creatures, phenomena, and sometimes disaster. 
 
-## Pantheon
-Aviron - Keeper of the Light, LG
-Va'shuth - Goddess of Justice, LG
-
 ## Planes
 ### The Light
 The Light is a cold plane of bright white light. It is the home of Aviron, Keeper of the Light, and his angelic army, of which Ifir's father is a high-ranking member. Angels take their true form in the Light, massive twisting monstrous forms with too many eyes and limbs and wings to count.
@@ -28,17 +24,17 @@ The Pit is a plane with volcanoes and fire as far as the eye can see. Filled wit
 The Pale is the strangest of the planes. The Pale is a sweeping, gray desert speckled with ruins of a thousand civilizations, inhabited by the dead and the undying alike. Secrets are kept here beneath the ash-sand, whispers and tomes of the dead and ghosts of those who have passed from Lindorwin, some graceful and forlorn and some dangerous and malevolent. Nothing grows here, and mortal souls are quickly eaten away until their ghosts join the parade of decay.
 
 ### The Gilded
-An eight plane, rumored to exist, is believed to hold a paradise-like afterlife.
+An eighth plane, rumored to exist, is believed to hold a paradise-like afterlife.
 
 ## Adventures
 1. Brass Master's Keep
 2. Journey to Castle Spellsong - Beneath the Temple
-3. tbd
-4. tbd
-5. tbd
-6. tbd
-7. tbd
-8. tbd
-9. tbd
-10. tbd
+3. Haunting of Hotel Seabring
+4. Tomb of the Harlot
+5. Snowday - Journey to White Vale
+6. Family - Journey to the Beetle Wilds
+7. The Beach Episode
+8. Birthday - The Return of Elduin
+9. Battalion
+10. Soliel - Journey to Anjouville
 
