@@ -1,5 +1,5 @@
 acacia
-alder - MC's father
+alder - sorrel's father
 almond
 amaranthus
 amaryllis
@@ -52,7 +52,7 @@ fennel
 fern
 fig
 flax
-foxglove - poisonous villain
+foxglove - adrien fox, starts as a cop and ends up as a fungal necromancer villain fighting back against the police
 freesia
 fuchsia
 ginger
