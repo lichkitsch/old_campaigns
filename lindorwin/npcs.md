@@ -20,12 +20,11 @@ Prince Elomar
 Royal Advisor Tybalt
 Lotelias
 Petra
-General Oliander, Head of the Royal Guard
-Lieutenant Percival
+General Sophia, Head of the Royal Guard
 
 ## The City of Steson
 Mama Juniper Willywock
-The Brownie
+Nax The Brownie
 
 ## The Light
 Aviron

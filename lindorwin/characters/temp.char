@@ -1,51 +1,38 @@
-name
-lvl 1 gender race class
-exp 000 / 000
+{name} the lvl # gender race class
+ac 10 | hp 10/10
 
-max hp 10
-ac 10 (10 [base])
-
-[traits] 
-str 10 (+0)
-dex 10 (+0)
-con 10 (+0)
-int 10 (+0)
-wis 10 (+0)
-cha 10 (+0)
-
-[equipment]
+[description] what do they look like? how do they sound? smell?
 
 
-[description]
+[traits]
+str +0 | dex +0 | con +0 | int +0 | wis +0 | cha +0
+
+[effects]
+unaided +0 | tools +0 | magic +0 | critical +0
+
+[bag] what are they carrying?
 
 
-[companion]
+[perks] what advantages or abilities do they have?
 
 
-[abilities]
+[quirks] what disadvantages or debilities do they have?
 
 
-[feats]
+[goals] what are their long-term and short-term goals?
 
 
-[bag]
+[past] what events led them to have these goals?
 
 
-[goals]
-what are their long-term and short-term goals?
+[flaws] what is holding them back?
 
 
-[backstory]
-what events led them to have these goals?
+[personality] what do their goals, past, and flaws reveal about who they are?
 
 
-[flaws]
-what is holding them back?
+[knowledge] what do they know that the pc doesn’t?
 
 
-[personality]
-what do their goals, past, and flaws reveal about who they are?
+[bonds] what relationships do they have?
 
-
-[information]
-what do they know that the pc doesn’t?
