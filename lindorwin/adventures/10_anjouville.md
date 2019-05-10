@@ -1,7 +1,9 @@
 # Anjouville
 
 ## Setup
-The party is together in White Vale, preparing to journey to Salgrim's home, the gnomish city of Anjouville (ahn-zho-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
+The party is together in White Vale, preparing to journey to Salgrim's home. They've eaten and it's time to rest. There are bunks available, but Ifir is having trouble sleeping. If she takes a walk, she'll find Vela at the showers
+
+The party sets out for the gnomish city of Anjouville (ahn-zho-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
 
 The group consists of: Ifir, Dama, Ezrah, Salgrim, Ilien, Julius, Vela, and Ursa. Ifir is a little more than halfway along in her pregnancy, Dama and Ezrah are becoming closer, Sal is on a mission, Ilien left Polly to tend to White Vale, Julius and Vela are past the point of no return, and Ursa is struggling to come to terms with Elduin's betrayal.
 
@@ -36,8 +38,17 @@ Back in Anjouville, everyone must find jobs in the city if they are going to be 
 
 [sex w/ dama? vela? ezrah? all three? idk]
 
-### The Goal
+## Plot Hooks
+1. Adeline believes Henri has been replaced by a doppelganger. Henri believes the same of Adeline.
+2. Adrienne and Blanche are investigating a strange illness arising from a discolored water source.
+3. Emmanuel is a necromancer who collects the skulls of important, intelligent people to use as direct reference. He requests help retrieving the skull of a recently dead alchemist, whose body is interred in the Maison du Souvenir (House of Remembrance).
+4. Bertrand is having trouble with a noisy neighbor bard who insists on practicing his horn playing at odd hours.
 
+### The Goal
+1. Settle the mystery between Adeline and Henri.
+2. Find the source of the disease and help to stop the spread.
+3. Convince the alchemist's family to let Emmanuel use his body for education.
+4. Convince the bard to schedule his practice time or move away.
 
 ## Encounter 1 - Entrance with Guardian
 
