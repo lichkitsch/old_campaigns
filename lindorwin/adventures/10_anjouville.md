@@ -22,7 +22,7 @@ Daughter Lola (teacher) and stay-at-home husband Bertrand, young son Emile and b
 Son Maxime, single and working as an artisan (woodworking).
 
 ### Back in Steson
-While the party is exploring Anjouville, a masked face is staking out Steson. They are spying on the city under lockdown. The masked figure retreats into the forest on the far side of the lake, into a camouflaged pit-camp. The figure removes their mask and hood to reveal that it's Lili. She looks different; her hair is cut shorter and there is a wrap around her shoulder. Her eyes are fierce and determined. She sits with the gnolls who were waiting in the pit-camp for her. They have meat on a small travel grill, and offer a skewer to Lili, which she takes and bites into with a frown. "There's no wasy way into the city, but if what I've heard is true then our friends aren't there." The gnolls remain quiet as Lili continues. "We can try and track them, but apparently they disappeared into thin air about a week ago." She takes another bite of the meat skewer. Knutt says "No tracks to follow. Should we stay?" Lili nods and replies, "We have to find a way into the city. We need to make her home safe again for when she returns."
+While the party is exploring Anjouville, a masked face is staking out Steson. They are spying on the city under lockdown. The masked figure retreats into the forest on the far side of the lake, into a camouflaged pit-camp. The figure removes their mask and hood to reveal that it's Lili. She looks different; her hair is cut shorter and there is a wrap around her shoulder. Her eyes are fierce and determined. She sits with the gnolls who were waiting in the pit-camp for her. They have meat on a small travel grill, and offer a skewer to Lili, which she takes and bites into with a frown. "There's no wasy way into the city, but if what I've heard is true then our friends aren't there." The gnolls remain quiet as Lili continues. "We can try and track them, but apparently w they disappeared into thin air about a week ago." She takes another bite of the meat skewer. Knutt says "No tracks to follow. Should we stay?" Lili nods and replies, "We have to find a way into the city. We need to make her home safe again for when she returns."
 
 Back in Anjouville, everyone must find jobs in the city if they are going to be allowed to stay and hide out here.
 
@@ -33,6 +33,8 @@ Back in Anjouville, everyone must find jobs in the city if they are going to be 
 - Vela works at the Hospital, practicing her healing magic with Salgrim.
 - Dama struggles to find work, and is at risk of being removed from the city. Luckily, babysitter counts as a job and he can assist Bertrand with caring for Sal's grandchildren.
 - Ifir is given a pass, as being pregnant (creating life) is regarded as a full-time job in Anjouville, but is allowed to play her violin for coin.
+
+[sex w/ dama? vela? ezrah? all three? idk]
 
 ### The Goal
 
