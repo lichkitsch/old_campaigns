@@ -1,10 +1,10 @@
 # How to Play dnduet
-Role-playing games (RPGs) are all about collaborative storytelling, or at least they should be. This system provides a basic framework for creating and playing your own custom tabletop RPGs. You can swap out magic for alien technology or some other special thing to fit your game's setting and genre, but for the most part these rules are kept relatively generic to allow for many styles of play in almost any setting or scenario.
+Role-playing games (RPGs) are all about collaborative storytelling, or at least they should be. This system provides a basic framework for creating and playing your own custom tabletop RPGs. You can swap out magic for alien technology or another special thing to fit your game's setting and genre, but for the most part these rules are kept relatively generic to allow for many styles of play in almost any setting.
 
 The GM describes the setting and gives the players opportunities to make choices, attempt to complete tasks and overcome obstacles, and take actions that will move the narrative forward, while the players decide how they want their characters to react to the events of the story and roll dice to determine the outcome of any uncertain events.
 
 ## Actions and Attempts
-The fluctuating level of difficulty in the game is represented by the *Air of Fate*, a publicly visible target number between 8 and 18. When the player wants to do something they describe the action and roll `1d20`, adding any relevant bonuses or penalties, trying to get a result that is higher than the *Air of Fate*.
+The fluctuating level of difficulty in the game is represented by the *Air of Fate*, a target number between 8 and 18 everyone can see. When the player wants to do something they describe the action and roll `1d20`, adding any relevant bonuses or penalties, trying to get a result that is higher than the *Air of Fate*.
 
 > The *Air of Fate* changes, increasing with the level of danger or difficulty the characters are facing and dropping to lower levels at times of rest.
 
