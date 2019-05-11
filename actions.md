@@ -21,8 +21,9 @@ Wisdom
 Charisma
 : Deceive, intimidate, perform, persuade, blend, summon, cast [CHA spell]
 
-Body: STR, DEX, CON
-Mind: INT, CHA
-Soul: WIS
-
 Magic: High CON for cost, high INT/WIS/CHA for casting, high MAGIC for effect
+
+ Body: STR + CON
+ Mind: DEX + INT
+Heart: WIS + CHA
+
