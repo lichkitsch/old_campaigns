@@ -2,7 +2,7 @@
 
 Season 1
 1. Responsibilities
-2. Finding Players
+2. Be Specific
 3. Choosing a System
 4. Character Creation
 5. 5 PC Questions
