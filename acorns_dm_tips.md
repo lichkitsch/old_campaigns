@@ -1,6 +1,6 @@
 # Acorn's DM Tips
 
-Season 1
+## Season 1
 1. Responsibilities
 2. Be Specific
 3. Choosing a System
@@ -15,7 +15,7 @@ Season 1
 12. NPC Creation
 13. Check Up Often
 
-Season 2
+## Season 2
 14. Sandboxing and Plot Hooks
 15. Know the Goal
 16. 5 Room Dungeon Method
@@ -30,7 +30,7 @@ Season 2
 25. Last Minute Prep
 26. Planning for Chaos
 
-Season 3
+## Season 3
 26. Troublesome Players
 27. Troublesome DMs
 28. One-on-One Games
@@ -46,7 +46,7 @@ Season 3
 38. Handling Character Death
 39. Taking Breaks
 
-Season 4
+## Season 4
 40. The GM Screen
 41. Physical Tools and Props
 42. Digital Tools
