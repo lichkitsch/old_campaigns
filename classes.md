@@ -2,7 +2,7 @@
 
 |           | Power     | Finesse    | Charm       | Knowledge    | Insight      |
 |:---------:|:---------:|:----------:|:-----------:|:------------:|:------------:|
-| **Fire**  | Bomber    | Gunslinger | Fire Dancer | Pyromancer   | Paladin      |
+| **Fire**  | Bomber    | Gunslinger | Dancer      | Pyromancer   | Paladin      |
 | **Water** | Pirate    | Duelist    | Priest      | Alchemist    | Cleric       |
 | **Air**   | Monk      | Ranger     | Bard        | Scholar      | Sage         |
 | **Earth** | Barbarian | Rogue      | Noble       | Geomancer    | Beastmaster  |
@@ -117,8 +117,6 @@ Types of Attacks
 Types of Damage
 Piercing / Slashing / Bashing
 Fire / Water / Air / Earth / Metal
-Steam / Ice / Wood / Crystal / Animal
-Plants / Storm / Glass / Poison / Magma
 
 Sunmaker: Fire / Magma
 Chillwalker: Water / Ice
@@ -133,23 +131,3 @@ Bloodbringer: Metal / Rage
 Lifelighter: Healing / Life
 Gravedigger: Harm / Death
 Maestro: Sight / Sound / Smell / Taste / Touch
-
-|       | Fire  | Water | Air    | Earth  | Metal   |
-| Fire  | Fire  | Steam | Animal | Glass  | Magma   |
-| Water |       | Water | Ice    | Plants | Poison  |
-| Air   |  |            | Air    | Wood   | Storm   |
-| Earth |  |  |                  | Earth  | Crystal |
-| Metal |  |  |  |                        | Metal   |
-
-Metal => Crystal => Poison => Storm  => Magma
-Earth => Wood    => Plants => Glass  => Crystal
-Air   => Wood    => Ice    => Animal => Storm
-Water => Steam   => Plants => Poison => Ice
-Fire  => Steam   => Animal => Glass  => Magma
-
-
-
-
-
-New York / 
-Magical Realism
