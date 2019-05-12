@@ -5,11 +5,10 @@ Oxalis "Sorrel" Danann
 : Daughter of Alder and Maple Danann, princess of the Seelie Court and heiress to the Golden Throne. Sorrel likes to scrap and fight and often sneaks away to compete in the Brawl at the Sprawl, a fighting tournament held in the underground market and neutral zone known as the Sprawl.
 
 Alder Danann
-: CEO of Oberon Electronics, a massive international corporation, and king of the Seelie Court.
+: CEO of Oberon Electronics, a massive international corporation, and king of the Seelie Court. MM: Greed
 
 Maple Danann
-: Mayor of Paragon City and queen of the Seelie Court. Maple is a non-nonsense woman with a harsh-but-fair attitude
-
+: Mayor of Paragon City and queen of the Seelie Court. Maple is a non-nonsense woman with a harsh-but-fair attitude. MM: Justice
 
 
 
@@ -18,7 +17,7 @@ Maple Danann
 ## Inspirations
 - Old fairy tales and fantasy lore
 - *American Gods* by Neil Gaiman
-- Feywilds of D&D
+- Feywilds and Shadowfall in D&D
 
 ## Paragon
 The metropolis of Paragon is the major setting for this campaign.
