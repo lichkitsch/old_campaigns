@@ -28,4 +28,10 @@ Sorrel's parents have distanced themselves from the fae and magic. They instead 
 
 Sorrel's parents don't want her to continue the royal line either, and in fact want all fae to eventually assimilate as well.
 
-Sorrel gets dragged into a political battle in which she is both hunted and supported by various factions of fae and human alike. With only a handful of close friends she can trust, Sorrel must navigate the dangerous game of the crumbling Seelie Court.
+Sorrel gets dragged into a political battle in which she is both hunted and supported by various factions of fae and human alike. With only a handful of close friends she can trust, Sorrel must navigate the dangerous game of the crumbling Seelie Court and the rising Unseelie Court.
+
+Fox, prince of the Unseelie Court, was exchanged with an enchanted human child in an effort to usurp the Unseelie Court.
+
+Fox and _ look like twins.
+
+Non-seelie neutral court made up of humans that keep the fae's secret.
