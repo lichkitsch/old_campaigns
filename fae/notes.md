@@ -1,4 +1,19 @@
 # Notes
+A modern-day fairy princess becomes the focus of a complex political controversy.
+
+Oxalis "Sorrel" Danann
+: Daughter of Alder and Maple Danann, princess of the Seelie Court and heiress to the Golden Throne. Sorrel likes to scrap and fight and often sneaks away to compete in the Brawl at the Sprawl, a fighting tournament held in the underground market and neutral zone known as the Sprawl.
+
+Alder Danann
+: CEO of Oberon Electronics, a massive international corporation, and king of the Seelie Court.
+
+Maple Danann
+: Mayor of Paragon City and queen of the Seelie Court. Maple is a non-nonsense woman with a harsh-but-fair attitude
+
+
+
+
+
 
 ## Inspirations
 - Old fairy tales and fantasy lore

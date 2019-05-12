@@ -17,3 +17,19 @@
 | **3**  | Skeleton   -1  | Urchin      -1    | Sorcerer    -1, Summon Creature | Walking Stick      |
 | **2**  | Ghost      -2  | Criminal    -2    | Barbarian   -2, Rage            | Wanted Poster      |
 | **-**  | Human      +0  | Farmer      +0    | Freelancer  +0, Fast Learner    | Empty Pack         |
+
+## NPC Motivations
+- Love: "I will support and protect the ones I care for."
+- Hope: "Things will get better; they must."
+- Faith: "For my beliefs, I'll fight and I'll die."
+- Prudence: "Safety is of prime importance."
+- Temperance: "I will control myself and the world around me."
+- Courage: "Whatever happens, keep moving forward."
+- Justice: "Hold people accountable for their actions."
+- Lust: "We're all animals, doing what animals do."
+- Gluttony: "More! Let me have more of what I desire."
+- Greed: "Money is power. Whoever has all the money, has all the power."
+- Sloth: "The path of least resistance is the path I want to take."
+- Wrath: "I'll make them pay. I'll make them all pay."
+- Envy: "I must be better than them."
+- Pride: "I deserve more than what I have."
