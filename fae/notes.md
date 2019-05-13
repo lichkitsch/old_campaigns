@@ -10,14 +10,13 @@ Alder Danann
 Maple Danann
 : Mayor of Paragon City and queen of the Seelie Court. Maple is a non-nonsense woman with a harsh-but-fair attitude. MM: Justice
 
-
-
+So 
 
 
 ## Inspirations
 - Old fairy tales and fantasy lore
 - *American Gods* by Neil Gaiman
-- Feywilds and Shadowfall in D&D
+- Feywilds and Shadowfall n D&D
 
 ## Paragon
 The metropolis of Paragon is the major setting for this campaign.
