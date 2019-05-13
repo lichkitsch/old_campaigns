@@ -1,7 +1,73 @@
 # Factions
 
 ## Fae
-Faeries, nymphs (wild spirit), dryads (tree spirit), nereid (water spirit), sylph (air spirit), hags, sprites (live near water), pixies (smallest fae), nixies (waterpixies), spriggans (shrunken ghosts of giants), giants, trolls, changelings, fauns, satyrs, centaurs, unicorns, naga, blink dogs, displacer beasts, brownies, leprechauns, gremlins, will o wisps, hobs, hobgoblins, redcaps (goblins), sluagh, gwyllion, kelpie (water horses w/ sharp teeth), merrow (merperson), selkie, asrai (shy nixies), salamanders, giant animals, owlbears (and other combinations), shambling mounds (nearly-sentient plant creature), blights, hippogriffs (horse-birds), griffons (cat-birds), manticores, wyverns (armless dragon), basilisks, cockatrices, darkmantles (octopus-like cave creature), shadowdragons, faerie dragons, strange flora and fungi, gibbering mouther (flesh mound with many sharp-toothed mouths), grells (beaked brain-like tentacle beast), harpies (bird-taurs), lamias (cat-taurs), nothic (arcane-poisoned wizards), oni, otyugh (chunky displacer beast), pegasus, peryton (stag + bird), pseudodragons (tiny dragon-like wizard familiars), roc, shadows, wights (unlucky undead), wraiths (ghosts), treants (living trees), vampire, were-beasts
+- Faeries
+- Nymphs (wild spirit)
+- Dryads (tree spirit)
+- Nereid (water spirit)
+- Sylph (air spirit)
+- Hags
+- Sprites (live near water)
+- Pixies (smallest fae)
+- Nixies (water pixies)
+- Spriggans (shrunken ghosts of giants)
+- Giants
+- Trolls
+- Changelings
+- Fauns
+- Satyrs
+- Centaurs
+- Unicorns
+- Minotaurs
+- Naga
+- Blink dogs
+- Displacer beasts
+- Brownies
+- Leprechauns
+- Gremlins
+- Will o wisps
+- Hobs
+- Hobgoblins
+- Redcaps (goblins)
+- Sluagh
+- Gwyllion
+- Kelpie (water horses w/ sharp teeth)
+- Merrow (merperson)
+- Selkie
+- Asrai (shy nixies)
+- Salamanders
+- Giant animals
+- Owlbears (and other combinations)
+- Shambling mounds (sentient plant creature)
+- Blights
+- Hippogriffs (horse-birds)
+- Griffons (cat-birds)
+- Manticores
+- Chimera
+- Wyverns (armless dragon)
+- Basilisks
+- Cockatrices
+- Darkmantles (octopus-like cave creature)
+- Shadowdragons
+- Faerie dragons
+- Strange flora and fungi
+- Gibbering mouther (flesh mound with many sharp-toothed mouths)
+- Grells (beaked brain-like tentacle beast)
+- Harpies (bird-taurs)
+- Lamias (cat-taurs)
+- Nothic (arcane-poisoned wizards)
+- Oni
+- Otyugh (chunky displacer beast)
+- Pegasus
+- Peryton (stag + bird)
+- Pseudodragons (tiny dragon familiars)
+- Roc
+- Shadows
+- Wights (unlucky undead)
+- Wraiths (ghosts)
+- Treants (living trees)
+- Vampire
+- Were-beasts
 
 ## Humans
 
