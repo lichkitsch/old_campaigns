@@ -1,79 +1,88 @@
 # Factions
 
-## Fae
-- Faeries
-- Nymphs (wild spirit)
-- Dryads (tree spirit)
-- Nereid (water spirit)
-- Sylph (air spirit)
-- Hags
-- Sprites (live near water)
+## Fey
+### Air
+- Faerie dragons
+- Griffons (cat-birds)
+- Harpies (bird-taurs)
+- Hippogriffs (horse-birds)
+- Pegasus
+- Peryton (stag + bird)
 - Pixies (smallest fae)
-- Nixies (water pixies)
 - Spriggans (shrunken ghosts of giants)
-- Giants
-- Trolls
-- Changelings
-- Fauns
-- Satyrs
-- Centaurs
-- Unicorns
-- Minotaurs
-- Naga
+- Sylph (air spirit)
+
+### Space
 - Blink dogs
 - Displacer beasts
+- Otyugh (chunky displacer beast)
+
+### Earth
 - Brownies
-- Leprechauns
-- Gremlins
-- Will o wisps
+- Centaurs
+- Dryads (tree spirit)
+- Fauns
+- Giant animals
+- Giants
 - Hobs
-- Hobgoblins
-- Redcaps (goblins)
-- Sluagh
+- Lamias (cat-taurs)
+- Leprechauns
+- Minotaurs
+- Naga
+- Nymphs (wild spirit)
+- Owlbears (and other combinations)
+- Satyrs
+- Shambling mounds (sentient plant creature)
+- Strange flora and fungi
+- Treants (living trees)
+- Trolls
+- Were-beasts
+
+### Life
+- Faeries
+- Unicorns
+
+### Water
+- Asrai (shy nixies)
 - Gwyllion
 - Kelpie (water horses w/ sharp teeth)
 - Merrow (merperson)
+- Nereid (water spirit)
+- Nixies (water pixies)
 - Selkie
-- Asrai (shy nixies)
-- Salamanders
-- Giant animals
-- Owlbears (and other combinations)
-- Shambling mounds (sentient plant creature)
-- Blights
-- Hippogriffs (horse-birds)
-- Griffons (cat-birds)
-- Manticores
-- Chimera
-- Wyverns (armless dragon)
-- Basilisks
-- Cockatrices
-- Darkmantles (octopus-like cave creature)
-- Shadowdragons
-- Faerie dragons
-- Strange flora and fungi
-- Gibbering mouther (flesh mound with many sharp-toothed mouths)
-- Grells (beaked brain-like tentacle beast)
-- Harpies (bird-taurs)
-- Lamias (cat-taurs)
+- Sprites (live near water)
+
+### Time
+- Changelings
 - Nothic (arcane-poisoned wizards)
-- Oni
-- Otyugh (chunky displacer beast)
-- Pegasus
-- Peryton (stag + bird)
+
+### Fire
 - Pseudodragons (tiny dragon familiars)
 - Roc
+- Salamanders
+- Will o wisps
+- Wyverns (armless dragon)
+
+### Death
+- Basilisks
+- Blights
+- Chimera
+- Cockatrices
+- Darkmantles (octopus-like cave creature)
+- Gibbering mouther (flesh mound with many sharp-toothed mouths)
+- Grells (beaked brain-like tentacle beast)
+- Gremlins
+- Hags
+- Hobgoblins
+- Manticores
+- Oni
+- Redcaps (goblins)
+- Shadowdragons
 - Shadows
+- Sluagh
+- Vampire
 - Wights (unlucky undead)
 - Wraiths (ghosts)
-- Treants (living trees)
-- Vampire
-- Were-beasts
-
-## Humans
-
-
-
-
 
 ## Oberon Enterprises
 Alder, Sorrel's father, is CEO and owner of Oberon Electronics, the family business. Alder has drawn controversy for becoming comfortable with humans at the expense of fae, even though he is by blood the king of the faeries.

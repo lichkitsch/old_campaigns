@@ -1,4 +1,21 @@
 # Notes
+The Fey of Fäerie (also called the Twilight Realm)
+Faery / Faeries
+
+> Paraclesus (Alchemist) divided faeries into the four elemental groups: sylphs (air), gnomes (earth), undines (water), and salamanders (fire).
+> Spiritualists divided them into two main groups: nature spirits and astral spirits.
+
+Faery bargains and treasure are cursed things
+Be polite, do not use their name nor give them your own
+Do not eat faery food or you'll be trapped in the Twilight Realm
+Marriages between faeries and humans are typically doomed from the start
+
+Sylphs, pixies, storm giants, spriggans     (Air) / Blink dogs (Space)
+Gnomes, hobs, hill giants, trolls         (Earth) / (Life)
+Undine, nixies, merrows, selkies, kelpies (Water) / (Time)
+Salamanders, drakes, djinn, will o' wisps  (Fire) / Slaugh (Death)
+
+
 A modern-day fairy princess becomes the focus of a complex political controversy.
 
 Oxalis "Sorrel" Danann
