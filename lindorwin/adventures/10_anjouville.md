@@ -3,7 +3,7 @@
 ## Setup
 The party is together in White Vale, preparing to journey to Salgrim's home. They've eaten and it's time to rest. There are bunks available, but Ifir is having trouble sleeping. If she takes a walk, she'll find Vela at the showers.
 
-The party sets out for the gnomish city of Anjouville (ahn-zho-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
+The party sets out for the gnomish city of Anjouville (ahn-zhoo-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
 
 The group consists of: Ifir, Dama, Ezrah, Salgrim, Ilien, Julius, Vela, and Ursa. Ifir is a little more than halfway along in her pregnancy, Dama and Ezrah are becoming closer, Sal is on a mission, Ilien left Polly to tend to White Vale, Julius and Vela are past the point of no return, and Ursa is struggling to come to terms with Elduin's betrayal.
 
@@ -12,8 +12,14 @@ When they finally reach the mountain entrance, Salgrim is greeted by three armed
 The large, domed building in the center is called the Lieu de Rencontre (Meeting Place). Gnomes meet here to vote on important matters and discuss trade, city management, surface engagement, and more. The building also houses the main hospital, with smaller branches set in each of the eight districts. The hospital is where Sal heads first, but the main group must meet with the Conseil des Maîtres (Council of Masters) and request permission to stay in Anjouville. The council is harsh but fair, allowing the group to stay within the city walls but they will be required to work to support the city and its inhabitants.
 
 ### Council
-Adeline (roads), Sonia (trade), Lambert (artisans), Stanislas (mining),
-Adrienne (health), Emmanuel (education), Henri (security), Blanche (utilities)
+Adeline (roads): younger, joyful but smart
+Sonia (trade): older, curious
+Lambert (artisans): older, gloomy
+Stanislas (mining): older, boastful
+Adrienne (health): older, exacting
+Emmanuel (education): younger, shy and self-conscious
+Henri (security): older, exacting
+Blanche (utilities): older, honest
 
 In the hospital, Sal is sitting with her sick wife Rosalie. Rosalie is suffering from a strange illness; her body is weak and she's been slowly losing feeling starting in her toes and moving upward. Now she can barely move her arms. Salgrim became a cleric and left to find a cure for the illness, and she's found a mixture of medicine and magic that might do the trick. Rosalie is doubtful there's a cure for what she has, but is incredibly grateful that her love has returned.
 
