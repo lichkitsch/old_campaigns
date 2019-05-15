@@ -1,4 +1,19 @@
 # Notes
+Four billion years ago, as the earth cooled and a balance rested over the planet, mother earth took her first breath. Her first breath released a wave of energy bursting through the primordial oceans. When it settled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 The Fey of Fäerie (also called the Twilight Realm)
 Faery / Faeries
 
@@ -26,9 +41,6 @@ Alder Danann
 
 Maple Danann
 : Mayor of Paragon City and queen of the Seelie Court. Maple is a non-nonsense woman with a harsh-but-fair attitude. MM: Justice
-
-So 
-
 
 ## Inspirations
 - Old fairy tales and fantasy lore
