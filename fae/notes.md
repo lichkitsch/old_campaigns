@@ -1,5 +1,22 @@
 # Notes
-Four billion years ago, as the earth cooled and a balance rested over the planet, mother earth took her first breath. Her first breath released a wave of energy bursting through the primordial oceans. When it settled
+Four billion years ago, as the earth cooled and a balance rested over the planet, the spirit of the earth took her first breath. Her first breath released a wave of energy into the primordial oceans. This was the birth of magic.
+
+From this magical energy, new spirits were born. Initially they took on the qualities of the elements around them, but as life evolved into intresting creatures some of the spirits took to mimicking the forms they saw. The spirits of the earth grew alongside life, coexisting for eons. Then, after billions of years living under natural law, mankind rose up from the rest. Evolution had given humans a powerful brain, ideal for adapting and surviving. The spirits mimicked this creature too. 
+
+Mankind eventually discovered magic, that flowing energy of which spirits are born and with which the material of the universe can be bent, changed, and controlled. The spirits, fearing what might come of this new development, retreated. With the help of the spirit of the earth herself, they weaved the flow of energy into a world itself. A place born of magic where the spirits believed they would be safe from the humans.
+
+But the draw of the earth was strong. Their magical world was but a memory, spun from the ideas of the elements rather than the elements themselves. The draw of their old home, mixed with the curiosity acquired from mimicking mankind, led to many of the spirits flitting back and forth between the magical and the material. 
+
+Their world continued to be shaped by the events of mankind. They drew on humanity for inspiration and developed their own kingdoms, dynasties, and empires. They were outnumbered quickly by mankind and while they were gifted at hiding and blending with nature, the odd spirit was occasionally spotted by a human. The spirits came to have many names: [list names]. Their realm was dedicated to the earth and the leaders convened, coming to a consensus: the realm of twilight must remain a place where natural law reigned supreme.
+
+Back on earth, mankind found magic to be the ultimate tool. Humans drew on the energy from the Fey's home, the Twilight Realm, using it to control and alter their surroundings. Their schools and methods differed from culture to culture. They treated magic like a science and used it to build cities, craft intricate machines, and wage terrible wars.
+
+With time, the spirits found ways to hide amongst humans. Their mimicry became more and more advanced, and powerful spirits could hold up a convincing glamour spell for years at a time. Seeing the devastation man wrought on the earth but lacking the numbers to change the human's behavior by force, the Fey secretly implanted themselves into human society. The Fey began hiding in plain sight, working little by little to save the earth.
+
+That event started the current age for faeries, called the Age of Amelioration.
+
+It is now the faery year 119 AA. Progress has been terribly slow, and humans have advanced exponentially quicker than before.
+
 
 
 
