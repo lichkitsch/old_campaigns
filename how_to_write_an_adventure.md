@@ -77,3 +77,55 @@ The final scene reveals something to the party as a reward for overcoming the cl
 - The townspeople knew about the serial killer and did nothing, as the killer only targeted orcs.
 - The haunted mansion was actually an extravagent magical illusion by an old bard who is willing to teach you the spell.
 - The castle was built to protect against a greater evil, and the dying sorcerer was the only thing holding it back.
+
+## Plot Creation
+Combine the following themes to find a plot:
+
+<dl>
+<dt>Actors</dt>
+<dd>Lovers, family, children, friends, partners, innocents, rivals, factions, criminals, madmen, tyrants, immortals, etc.</dd>
+
+<dt>Basic Themes</dt>
+<dd>Pride, wrath, sloth, envy, greed, lust, gluttony, chaos, order, natural disaster, escape, rescue, survival, retrieval, punishment, appeasement, healing, protection, persuasion, revelation, conquest, war, sacrifice, love, hate, fear, etc.</dd>
+</dl>
+
+Or reference Georges Polti's *36 Dramatic Situations* for inspiration:
+
+| Plot Basis                            | Actors                                                                  |
+|:------------------------------------- |:----------------------------------------------------------------------- |
+| Supplication                          | Persecutor, Suppliant, a Power in Authority                             |
+| Deliverance                           | Unfortunates, Threatener, Rescuer                                       |
+| Revenge                               | Avenger, Criminal                                                       |
+| Vengeance by Family upon Family       | Avenging Kinsman, Guilty Kinsman, Relative                              |
+| Pursuit                               | Fugitive from Punishment, Pursuer                                       |
+| Victim of Cruelty or Misfortune       | Unfortunates, Master or Unlucky Person                                  |
+| Disaster                              | Vanquished Power, Victorious Power or Messenger                         |
+| Revolt                                | Tyrant, Conspirator(s)                                                  |
+| Daring Enterprise                     | Bold Leader, Goal, Adversary                                            |
+| Abduction                             | Abductor, Abducted, Guardian                                            |
+| Enigma                                | Interrogator, Seeker, Problem                                           |
+| Obtaining                             | Two or more Opposing Parties, Object, maybe an Arbitrator               |
+| Familial Hatred                       | Two Family Members who hate each other                                  |
+| Familial Rivalry                      | Preferred Kinsman, Rejected Kinsman, Object                             |
+| Murderous Adultery                    | Two Adulterers, the Betrayed                                            |
+| Madness                               | Madman, Victim                                                          |
+| Fatal Imprudence                      | Imprudent person, Victim or lost object                                 |
+| Involuntary Crimes of Love            | Lover, Beloved, Revealer                                                |
+| Kinsman Kills Unrecognised Kinsman    | Killer, Unrecognised Victim, Revealer                                   |
+| Self Sacrifice for an Ideal           | Hero, Ideal, Person or Thing Sacrificed                                 |
+| Self Sacrifice for Kindred            | Hero, Kinsman, Person or Thing Sacrificed                               |
+| All Sacrificed for Passion            | Lover, Object of Passion, Person or Thing Sacrificed                    |
+| Sacrifice of Loved Ones               | Hero, Beloved Victim, Need for Sacrifice                                |
+| Rivalry Between Superior and Inferior | Superior, Inferior, Object                                              |
+| Adultery                              | Deceived Spouse, Two Adulterers                                         |
+| Crimes of Love                        | Lover, Beloved, theme of Dissolution                                    |
+| Discovery of Dishonor of a Loved One  | Discoverer, Guilty One                                                  |
+| Obstacles to Love                     | Two Lovers, Obstacle                                                    |
+| An Enemy Loved                        | Beloved Enemy, Lover, Hater                                             |
+| Ambition                              | An Ambitious Person, Coveted Thing, Adversary                           |
+| Conflict with a God                   | Mortal, Immortal                                                        |
+| Mistaken Jealousy                     | Jealous One, Object of Jealousy, Supposed Accomplice, Author of Mistake |
+| Faulty Judgment                       | Mistaken One, Victim of Mistake, Author of Mistake, Guilty Person       |
+| Remorse                               | Culprit, Victim, Interrogator                                           |
+| Recovery of a Lost One                | Seeker, One Found                                                       |
+| Loss of Loved Ones                    | Kinsman Slain, Kinsman Witness, Executioner                             |
