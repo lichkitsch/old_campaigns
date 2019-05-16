@@ -1,6 +1,4 @@
 # Anjouville
-
-## Setup
 The party is together in White Vale, preparing to journey to Salgrim's home. They've eaten and it's time to rest. There are bunks available, but Ifir is having trouble sleeping. If she takes a walk, she'll find Vela at the showers.
 
 The party sets out for the gnomish city of Anjouville (ahn-zhoo-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
