@@ -1,5 +1,14 @@
 # Podcast Plan
 
+1. Review
+2. Hook
+3. Outline
+4. Clues
+5. Locations
+6. NPCs
+7. Monsters
+8. Magic Rewards
+
 ## Episode List
 | Release  | ID  | Episode |
 |:--------:|:---:|:------- |
