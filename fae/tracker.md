@@ -1,6 +1,6 @@
 # Campaign Tracker
-Oxalis "Sorrel" ???
-: Bard w/ Keytar 
+Oxalis "Sorrel" Danann
+: Bard w/ Keytar
 
 ## Paths
 
