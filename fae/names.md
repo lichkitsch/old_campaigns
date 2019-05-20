@@ -49,7 +49,7 @@ dracunculus vulgaris
 epacris  
 evergreen  
 fennel  
-fern  
+fern - barista by day, dryad and ring medic at the Sprawl by night 
 fig  
 flax  
 foxglove - adrien fox, starts as a cop and ends up as a fungal necromancer villain fighting back against the police  
