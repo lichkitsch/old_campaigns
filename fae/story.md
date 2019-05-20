@@ -1,11 +1,11 @@
-Oxalis "Sorrel" Danann is a faerie princess, daughter of King Alder and Queen Maple, heiress to the Golden Throne.
-
 It's no longer the days of old. Fae of all kinds have been taken to living underground, hidden away in the nooks and crannies of human cities for generations. Only those permitted may walk the streets above, in full glamour of course, and interact with humans.
+
+Oxalis "Sorrel" Danann is a faerie princess, daughter of King Alder and Queen Maple, heiress to the Golden Throne.
 
 While her family has positioned themselves in places of power in the human world above, Sorrel finds that she spends most of her time enjoying being a faerie. She doesn't care for hiding and often sneaks out to compete in the fighting tournaments held in the Sprawl for fun. She's become well-known in the circuit as the mysterious, masked maestro Gloriosa. With her keytar, some spell training, and 
 
-Adrien Fox
-Fox was born to Castor and Nicotiana, the lord and lady of the Unseelie Court. He was taken from his crib and swapped with a human child, lightly touched by magic, by an agent acting under secret orders from Alder Danann, lord of the Seelie Court. The child kept Fox's true name, Hemlock. Growing up, Fox moved between various foster situations. Most of the homes he ended up in were with cruel or uncaring guardians and equally cruel or apathetic children. When he was nine, Fox was placed with a kind couple with no children of their own. He lived with them for all of a week before they were killed during a break-in gone wrong, an incident that left Fox with a wicked scar on the side of his neck when he tried to protect his unfortunate guardians. This left Fox with a hatred of thieves and criminals.
+## Adrien Fox
+Fox was born to King Castor and Queen Nicotiana of the Unseelie Court. He was taken from his crib and swapped with a human child, lightly touched by magic, by an agent acting under secret orders from King Alder. The child kept Fox's true name, Hemlock. Growing up, Fox moved between various foster situations. Most of the homes he ended up in were with cruel or uncaring guardians and equally cruel or apathetic children. When he was nine, Fox was placed with a kind couple with no children of their own. He lived with them for all of a week before they were killed during a break-in gone wrong, an incident that left Fox with a wicked scar on the side of his neck when he tried to protect his unfortunate guardians. This left Fox with a hatred of thieves and criminals.
 
 He continued to bounce around from home to home until he was 16, old enough to emancipate himself. He supported himself with odd jobs, saving his money and studying the system. He'd developed a distrust of people, gravitating towards law and order but having a gnawing feeling deep within that he was acting against his nature. The Unseelie Court is the pinnacle of chaos and its denizens were born with an innate, chaotic disposition. Fox uses much of his energy fighting his inner nature, causing him to fall ill frequently. This led to him becoming a neat and tidy person; he cooked his own food and took care to exercise and stay clean in an effort to overcome the strange bouts of illness.
 
@@ -13,6 +13,21 @@ Fox became a cop in an effort to do his small part in fixing the broken parts of
 
 He has a partner named Red, an older gentleman with an addictive personality and a string of ex-wives. Red is gruff, but he's still in relatively good shape considering his habits. Fox doesn't like being around Red for longer than he has to, and his demeanor has led to his co-workers branding him with secret nicknames like "soldier", "spot", and "tight-ass prick". He hasn't made friends, save for a rescue cat he named Tom and a kind barista (Fern) who always remembers his name.
 
+## Alder Danann
+Alder is the king of the Seelie Court and CEO of Oberon Electronics. The royals of the Seelie Court have made strides in the human world by merging magic and technology, encouraging progress on both fronts. Alder inherited an already booming business and has become complacent in his duties as king, choosing instead to spend his time and energy on growing the business and keeping the crown on the back-burner. After all, the Fey might have magic but, in the human world, money is power.
+
+## Maple Danann
+Maple Danann, mayor of Paragon City, worked hard to position herself as a political icon and important figure in the city. She's busy with her political games and keeping the city happy, and she's enjoying the second side of the coin of power in the human world.
+
+By covering business and politics, the royal heads of the Seelie Court are rising quickly to influence mankind, an effort started by the Seelie Court three generations back. The original hope was that by becoming influencers, the Seelie might affect the humans in a way that would heal the wounds that the humans inflicted on the planet. That dream, it seems, has been long buried by the simple race to power which has taken the king and queen quite thoroughly.
+
+## Fern
+Fern is a dryad who works by day as a barista at The Copper Cup, a cafe on the outskirts of the Sprawl. At night she uses her affinity for healing magic and sates her love of action by volunteering as a ring medic for the Brawl at the Sprawl. Fern is a tall, willowy woman with dark skin, auburn hair, and bright golden eyes. She's a gifted healer and a lover of nature, a firm believer in the old laws by which the Fey live.
+
+## The Old Laws
+The Fey live by a handful of laws that were laid down in the distant past, some say that they were whispered to the original spirits by Mother Earth herself:
+1. Wheel - What you give, so shall you receive.
+3. Tooth - Eat, as you shall someday be eaten. 
 
 What is your character’s name? Does the character have a nickname?
 : Adrien Fox, goes by "Fox" / Foxglove the Unseelie Prince
