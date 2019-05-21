@@ -50,7 +50,7 @@ Piercing / Slashing / Bashing
 7. Crystal Prison
 
 ## Navigator
-1. Spatial Awareness, Compass
+1. Locate Object, Compass
 2. Hindsight, Haste
 3. Send Message, Gravity Well
 4. Liquid Air, Reverse Gravity
