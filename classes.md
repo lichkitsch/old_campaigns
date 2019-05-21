@@ -1,165 +1,97 @@
-# Classes
-
-|           | Power     | Finesse    | Charm       | Knowledge    | Insight      |
-|:---------:|:---------:|:----------:|:-----------:|:------------:|:------------:|
-| **Fire**  | Bomber    | Gunslinger | Dancer      | Pyromancer   | Paladin      |
-| **Water** | Pirate    | Duelist    | Priest      | Alchemist    | Cleric       |
-| **Air**   | Monk      | Ranger     | Bard        | Scholar      | Sage         |
-| **Earth** | Barbarian | Rogue      | Noble       | Geomancer    | Beastmaster  |
-| **Metal** | Knight    | Assassin   | Illusionist | Technomancer | Stormbringer |
-
-## Perks, Quirks, and Gear
-
-
-## Special Moves
-You gain 1 use per day of E-S moves every time you level up.
-F - unlocked at level 1
-E - unlocked at level 3
-D - unlocked at level 6
-C - unlocked at level 9
-B - unlocked at level 12
-A - unlocked at level 15
-S - unlocked at level 18
-
-|   |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| F |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| E |    |    |    |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| D |    |    |    |    |    |    |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| C |    |    |    |    |    |    |    |    |    |  0 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| B |    |    |    |    |    |    |    |    |    |    |    |    | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| A |    |    |    |    |    |    |    |    |    |    |    |    | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-| S |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  1 |  2 |  3 |
-
-
-### Bomber
-0: 
-1: 
-2: 
-3: 
-4: 
-5: 
-6: 
-7: 
-8: 
-
-### Pirate
-
-
-### Monk
-
-
-### Barbarian
-
-
-### Knight
-
-
-### Gunslinger
-
-
-### Duelist
-
-
-### Ranger
-
-
-### Rogue
-
-
-### Assassin
-
-
-### Fire Dancer
-
-
-### Priest
-
-
-### Bard
-
-
-### Noble
-
-
-### Illusionist
-
-
-### Pyromancer  
-
-
-### Alchemist
-
-
-### Scholar
-
-
-### Geomancer   
-
-
-### Technomancer
-
-
-### Paladin     
-
-
-### Cleric      
-
-
-### Sage        
-
-
-### Beastmaster 
-
-
-### Stormbringer
-
-
-## Pantheon
-Goddess of Power
-God of Finesse
-God of Charm
-Goddess of Knowledge
-God of Insight
-
-Goddess of Fire
-God of Water
-Goddess of Air
-Goddess of Earth
-God of Metal
-
-|           | Good | Neutral | Evil |
-|:---------:|:---:|:---:|:---:|
-| Power     |  |  |  |
-| Skill     |  |  |  |
-| Charm     |  |  |  |
-| Knowledge |  |  |  |
-| Insight   |  |  |  |
-| Fire      |  |  |  |
-| Water     |  |  |  |
-| Air       |  |  |  |
-| Earth     |  |  |  |
-| Metal     |  |  |  |
-
 Types of Attacks
 : Unarmed, melee, ranged, magic
 
 Types of Damage
 Piercing / Slashing / Bashing
-Hot / Cold / Dry / Wet / Life / Death
-Fire / Water / Air / Earth / Metal
 
-Sunsprite: Fire / Magma
-Waterdancer: Water / Ice
-Treesinger: Plants / Wood
-Stormborn: Air / Storm
-Stonespeaker: Earth / Crystal
-Navigator: Space / Time
-Beastling: Communion / Animal Shape
-Engineer: Steam / Glass
-Shadowchild: Poison / Shadow
-Bloodbringer: Metal / Rage
-Lifelighter: Healing / Life
-Gravedigger: Harm / Death
-Jester: Sight / Sound / Smell / Taste / Touch
+## Sunsprite
+1. Torch, Cauterize, Dancing Lights 
+2. Fireball, Flame Weapon
+3. Cloak of Flames, Flash Step
+4. Burning Gaze, Melt Iron
+5. Immolation, Eruption, Summon Firestorm
 
+## Waterdancer
+1. Sea Spout, Acid Splash, Scry
+2. Freeze Water, Boil Water
+3. Ice Bolt, Water Walking
+4. Water Breathing, Sea-speak
+5. Drown, Evaporate, Summon Tsunami
+
+## Bloomsinger
+1. Blossom, Conjure Petals, Woodshaping
+2. Barkskin, Plant-speak
+3. Thornwhip, Sleep Powder
+4. Thicket, Camouflage
+5. Summon Man-eater, Seed of Death, Plant Form
+
+## Stormborn
+1. Shocking Touch, Redirect Wind, Thunderclap
+2. Charge Battery, Sense Weather
+3. Bolt of Lightning, Wind-walking
+4. Booming Thunder, Change Weather
+5. Whirlwind, Steal Breath, Summon Hurricane
+
+## Stonespeaker
+1. Conjure Stones, Stoneshaping, Geomancy
+2. Stoneskin, Stone-speak
+3. Earth Spike, Quicksand
+4. Traverse Terrain, Sculpture
+5. Quake, Crystal Prison, Canyon
+
+## Navigator
+1. .
+2. .
+3. .
+4. .
+5. .
+
+## Beastling
+1. Handle Animal, Beastly Claws, Poison Bite
+2. Impressive Hide, Beast-speak
+3. Conjure Wings, Summon Ally Mount
+4. Frenzy, Calm Creature
+5. Primal Surge, Summon Swarm, Animal Form
+
+## Shadowchild
+1. Apply Poison, Resist Poison, Shadow Strike 
+2. Paralyze Target, Blinding Ray
+3. Enhance Poison, Shadow Step
+4. Shadowshaping, Summon Shade
+5. Long Sleep, Shadow Body, Invisibility
+
+## Bloodbringer
+1. .
+2. .
+3. .
+4. .
+5. .
+
+## Guardian
+1. .
+2. .
+3. .
+4. .
+5. .
+
+## Lifelighter
+1. Heal Minor Wounds, Revitalize, Words of Courage
+2. True Sight, 
+3. Heal Major Wounds, Conjure Light
+4. Mass Healing, 
+5. Ressurection, Conjure the Spectre of Life 
+
+## Gravedigger
+1. Inflict Minor Wounds, Drain Energy, Cutting Insult
+2. Command Dead Flesh, Ghost-speak
+3. Inflict Major Wounds, Conjure Darkness
+4. Necrotic Touch, Soul-binding
+5. Ressurection, Conjure the Spectre of Death
+
+## Trickster
+1. Silence Target
+2. .
+3. .
+4. Freaky Friday, 
+5. True Conjuration, Word of Death, Erasure
 
