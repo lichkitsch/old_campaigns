@@ -1,14 +1,14 @@
 | name    | ac | hp    | stats             | weapon           | perks                  | quirks                |
 |---------|----|-------|-------------------|------------------|------------------------|-----------------------|
-| ifir    | 14 | 24/24 | s0 d2 c0 i2 w2 h3 | kama w/ poison   | perception, flight     | fear of father        |
-| lala   *| 16 |  8/ 8 | s0 d3 c1 i0 w0 h0 | bite             | paralyzing poison      | fear of birds         |
-| lili    | 13 | 16/16 | s3 d2 c0 i1 w0 h0 | nunchaku         | unarmed, spy for hire  | armorless, apostate   |
+| ifir    | 14 | 33/33 | s0 d2 c1 i2 w2 h3 | kama w/ poison   | perception, flight     | fear of father        |
+| lala   *| 16 | 17/17 | s0 d3 c1 i0 w0 h0 | bite             | paralyzing poison      | fear of birds         |
+| lili    | 13 | 26/26 | s3 d2 c0 i1 w1 h0 | nunchaku         | unarmed, spy for hire  | armorless, apostate   |
 | ningal *| 14 | 12/12 | s3 d2 c0 i0 w0 h0 | bite and claw    | scent of prey          | partner comes first   |
-| dama    | 12 | 13/13 | s1 d3 c0 i0 w0 h2 | sword and shield | defender, gamblin' man | clumsy, wrong class   |
-| knutt   | 14 | 18/18 | s3 d1 c1 i0 w0 h0 | glaive           | beast rush, fearless   | stealthless target    |
-| rutt    | 12 | 12/12 | s1 d2 c0 i1 w0 h1 | shortsword & bow | scent tracker, bowman  | new weapon training   |
-| salgrim | 12 | 18/18 | s0 d0 c1 i2 w3 h0 | blackwood staff  | knowledge of plants    | far away from home    |
-| ezrah   | 14 | 27/27 | s2 d2 c2 i0 w0 h0 | morningstar      | knowledge of the light | renounced, made human | 
+| dama    | 12 | 26/26 | s2 d3 c0 i0 w0 h2 | sword and shield | defender, gamblin' man | clumsy, wrong class   |
+| knutt   | 14 | 22/22 | s4 d1 c1 i0 w0 h0 | glaive           | beast rush, fearless   | stealthless target    |
+| rutt    | 12 | 16/16 | s1 d3 c0 i1 w0 h1 | shortsword & bow | scent tracker, bowman  | new weapon training   |
+| salgrim | 12 | 28/28 | s0 d0 c1 i3 w3 h0 | blackwood staff  | knowledge of plants    | far away from home    |
+| ezrah   | 14 | 35/35 | s2 d2 c2 i1 w0 h0 | morningstar      | knowledge of the light | renounced, made human | 
 * animal companion
 
 initiative order

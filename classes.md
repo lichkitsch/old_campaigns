@@ -10,8 +10,33 @@
 
 ## Perks, Quirks, and Gear
 
-### Bomber
 
+## Special Moves
+You gain 1 use per day of E-S moves every time you level up.
+F - unlocked at level 1
+E - unlocked at level 3
+D - unlocked at level 6
+C - unlocked at level 9
+B - unlocked at level 12
+A - unlocked at level 15
+S - unlocked at level 18
+
+|   |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| F |  1 |  2 |  3 |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| E |    |    |    |  4 |  5 |  6 |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| D |    |    |    |    |    |    |  7 |  8 |  9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| C |    |    |    |    |    |    |    |    |    |  0 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| B |    |    |    |    |    |    |    |    |    |    |    |    | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| A |    |    |    |    |    |    |    |    |    |    |    |    | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
+| S |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  1 |  2 |  3 |
+
+
+### Bomber
+0: 
+1: 
+2: 
+3: 
+4: 
 
 ### Pirate
 
