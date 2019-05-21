@@ -89,9 +89,9 @@ Piercing / Slashing / Bashing
 5. Ressurection, Conjure the Spectre of Death
 
 ## Trickster
-1. Silence Target
+1. Silence Target, Minor Illusion
 2. .
-3. .
+3. Major Illusion
 4. Freaky Friday, 
 5. True Conjuration, Word of Death, Erasure
 
