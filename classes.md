@@ -37,6 +37,10 @@ S - unlocked at level 18
 2: 
 3: 
 4: 
+5: 
+6: 
+7: 
+8: 
 
 ### Pirate
 
@@ -141,18 +145,21 @@ Types of Attacks
 
 Types of Damage
 Piercing / Slashing / Bashing
+Hot / Cold / Dry / Wet / Life / Death
 Fire / Water / Air / Earth / Metal
 
-Sunmaker: Fire / Magma
-Chillwalker: Water / Ice
+Sunsprite: Fire / Magma
+Waterdancer: Water / Ice
 Treesinger: Plants / Wood
 Stormborn: Air / Storm
 Stonespeaker: Earth / Crystal
 Navigator: Space / Time
 Beastling: Communion / Animal Shape
-Gearmaster: Steam / Glass
-Shadowdancer: Poison / Shadow
+Engineer: Steam / Glass
+Shadowchild: Poison / Shadow
 Bloodbringer: Metal / Rage
 Lifelighter: Healing / Life
 Gravedigger: Harm / Death
-Maestro: Sight / Sound / Smell / Taste / Touch
+Jester: Sight / Sound / Smell / Taste / Touch
+
+
