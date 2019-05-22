@@ -7,7 +7,7 @@ Julius said "You're gonna make a great mama bear" when Ifir asked what kind of a
 **Stopping Point**
 Talking about angel forms, Dama finally understands what they really look like, still on the road to Anjouville.
 
-Play out AU
+Ifir got Vela to finger her to completion while the boys watched.
 
 The party sets out for the gnomish city of Anjouville (ahn-zhoo-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
 
