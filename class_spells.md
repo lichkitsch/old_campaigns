@@ -35,7 +35,7 @@ Cloak of Flames
 : Summon a cloak of fire (+2 AC) that lasts LVL/2 rounds. Enemies that successfully attack you are burned for half the damage they deal.
 
 ### Master Level Spells
-Immolation
+Inferno
 : If a target fails a DEX or CON saving throw and they have less than half health, their body is burned beyond recognition.
 
 Eruption

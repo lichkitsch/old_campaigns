@@ -10,7 +10,7 @@ Piercing / Slashing / Bashing
 3. Fireball, Flame Weapon
 4. Melt Iron, Flash Step
 5. Burning Gaze, Cloak of Flames
-6. Eruption, Immolation
+6. Eruption, Inferno
 7. Summon Firestorm
 
 ## Waterdancer
