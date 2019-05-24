@@ -1,29 +1,47 @@
 # dnduet
-*dnduet* (Daring Narrative Duet) is a two-player tabletop roleplaying system. The player controls one or more characters (PCs) living in a world controlled by the dungeon master (DM). Both work together to create an exciting and interesting story.
+*dnduet* (Daring Narrative Duet) is a tabletop roleplaying system made with only 1 player and 1 moderator in mind.
 
 ## Characters
-Characters have several stats which make them unique. These stats give them advantages and disadvantages. To make a character, start by rolling `1d4-2` for the following:
+The player controls one or more characters in the game world. Characters have several stats which give them unique advantages and disadvantages. To make a character, start by rolling `1d4-2` for the following:
 
 | Traits                 | Effects  |
 |:----------------------:|:--------:|
 | Strength (**STR**)     | Unaided  |
-| Dexterity (**DEX**)    | Tools    |
-| Constitution (**CON**) | Magic    |
+| Constitution (**CON**) | Tools    |
+| Dexterity (**DEX**)    | Magic    |
 | Intelligence (**INT**) | Critical |
 | Wisdom (**WIS**)       |          |
 | Charisma (**CHA**)     |          |
 
-Now you know your character’s strengths and weaknesses. Next, calculate these two numbers:
+Feel free to move scores around but, unless you have five or more -1 scores, try to avoid re-rolling. Now you know your character’s strengths and weaknesses. Next, use those scores to calculate the following:
 
 | Heart Points (HP)     | Armor Class (AC)         |
 |:---------------------:|:------------------------:|
 | Max HP = 10+**CON**   | 10+**DEX** or 10+**STR** |
 
-These will become important later on. Give your character a name and a backstory. Finally, give your character 2 **perks** and 2 **quirks**. Perks and quirks are unique things about your character that give them bonuses and penalties to rolls under specific circumstances, such as advantage, disadvantage, and increasing/decreasing a roll result by a couple points. The specific conditions can be connected to the weather, time of day, health, age/species/sex of target, tool being used… just about anything you can imagine.
+AC represents how difficult your character is to hit with an attack, thanks to either agility or durability.
 
-**Advantage** is rolling twice and keeping the higher result. **Disadvantage** is rolling twice and keeping the lower result. 
+HP is more abstract. It represents a combination of luck, stamina, and integrity (physical, emotional, and mental). You may choose how to handle HP in your setting. Each reduction of HP might be a direct hit from a weapon, or your character might experience many near-misses and only take physical damage when they tire and become an easier target.
 
-Tie the perks and quirks into your character’s history, ancestry, or body features. The son of a locksmith might be good at picking locks. A duelist would fight better with their favored weapon. Your character might have a fear of fire due to a traumatic event. A falconer might have a soft spot for birds and bird-like creatures.
+Once you have these stats you can flesh out your character with at least one sentence for each of the following:
+
+Body
+: Based on STR and CON, describe your character's appearance, demeanor, and voice.
+
+Mind
+: Based on DEX and INT, describe your character's education, profession, and fears.
+
+Heart
+: Based on WIS and CHA, describe your character's history, values, and desires.
+
+Resources
+: List your character's assets, possessions, and connections.
+
+Finally, give your character 1 **perk** and 1 **quirk**. Perks give your character advantage or +2 to a roll under specific conditions, and quirks give your character disadvantage or -2 to a roll under specific conditions. The specific conditions can be connected to the weather, time of day, health, age/species/sex of target, tool being used… just about anything you can imagine.
+
+> **Advantage** is rolling twice and keeping the higher result. **Disadvantage** is rolling twice and keeping the lower result. 
+
+Tie the perks and quirks into your character’s history, ancestry, or body features. The son of a locksmith might be good at picking locks. A duelist would fight more effectively with their favored weapon. Your character might have a fear of fire due to a traumatic event. A falconer might have a soft spot for birds and bird-like creatures.
 
 ## Actions
 When an action has a chance of failure, you make an action roll by rolling `1d20` and adding a trait score. The specific trait will depend on the nature of the action:
@@ -39,15 +57,15 @@ After rolling and adding your trait score, check the result against the *Air of 
 
 If the result is equal to or higher than the *Air of Fate*, the action succeeds. If the obstacle has HP, roll effect dice and subtract the result from its HP:
 
-- Unaided - roll `1d4+unaided` if the action is not aided by tools or magic.
-- Tools - roll `1d4+1d6+tools` if aided by a physical object, weapon, poison, gift, etc.
-- Magic - roll `1d4+1d8+magic` if aided by magic.
-- Critical - roll `1d4+1d12+critical` if you rolled a *natural 20* (20 before bonuses or penalties).
+- Roll `1d4+unaided` if the action is not aided by tools or magic.
+- Roll `1d4+1d6+tools` if aided by a physical object, weapon, poison, gift, etc.
+- Roll `1d4+1d8+magic` if aided by magic or enchanted objects.
+- Roll `1d4+1d12+critical` if you rolled a *natural 20* (20 before bonuses or penalties).
 
-When the HP of the obstacle reaches zero, it is overcome/completed. HP does not necessarily represent physical health. It represents luck, will to live, and integrity (physical, emotional, and mental).
+When the HP of the obstacle reaches zero, it is overcome/completed. 
 
 ## Failing Forward
-If the result of an action or attempt is lower than the Air of Fate, the action fails. PCs always fail in a way that moves the story forward.
+If the result of an action or attempt is lower than the *Air of Fate*, the action fails. Outside of combat, failed rolls should be resolved in a way that moves the story forward.
 
 The PC might fail the action because of a narrative development, forcing the PC to find a new path to progress. Alternatively, they might succeed in the action but take on a new, temporary, related quirk as the cost of success. The DM should decide the result of a failed roll based on the situation. In the event of a *natural 1* (1 before bonuses or penalties), the quirk you take becomes permanent.
 
@@ -57,14 +75,14 @@ PCs have an inventory where they keep useful items collected throughout their jo
 Work with your DM to figure out the uses, bonuses, and penalties for the items your character acquires. Remember that no roll can have higher than a +8 and armor class cannot be higher than 18. Keep item bonuses/penalties to 1 or 2 points.
 
 ## Distance and Time
-Distance as it relates to the PC are **close** (5ft radius), **near** (10ft radius), and **far** (further than 10ft). Time comes in **moments** (seconds to minutes), **hours**, and **days**.
+Distance as it relates to the PC are **close** (5ft radius), **near** (30ft radius), and **far** (further than 30ft). Time comes in **moments** (seconds to minutes), **hours**, and **days**.
 
 ## Combat
-Sometimes PCs are facing hostile forces and need to protect themselves. A PC can make a sneak attack and deal some damage before everyone rolls for initiative, only if they are unseen.
+Sometimes the PC faces hostile forces and needs to protect themself. A PC can make a sneak attack and deal some damage before everyone rolls for initiative, only if they are unseen.
 
 Initiative is the order that everyone takes their turns during combat. To find your place in the initiative order, make a **DEX** action roll. If you tie with someone, play rock-paper-scissors for the higher spot. DMs, roll once for each type of creature entering combat.
 
-On your turn you can take two actions, a movement and an action, or a far movement. Enemies must roll higher than your armor class to deal damage.
+On your turn you can take two actions, a movement and an action, or a far movement. Actions can include attacking, casting a spell, or using an item, and do not always require a roll. Enemies must roll higher than your armor class to deal damage.
 
 If your HP reaches zero, your character falls unconscious. Allies can use their turns to protect, heal, or transport them away from danger. On an unconscious PCs turn, they see a glimpse of the world beyond.
 
