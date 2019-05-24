@@ -21,15 +21,22 @@ When they finally reach the mountain entrance, Salgrim is greeted by three armed
 
 The large, domed building in the center is called the Lieu de Rencontre (Meeting Place). Gnomes meet here to vote on important matters and discuss trade, city management, surface engagement, and more. The building also houses the main hospital, with smaller branches set in each of the eight districts. The hospital is where Sal heads first, but the main group must meet with the Conseil des Maîtres (Council of Masters) and request permission to stay in Anjouville. The council is harsh but fair, allowing the group to stay within the city walls but they will be required to work to support the city and its inhabitants.
 
+Ricard
+
+Soleil (So-Lay)
+
 ### Council
-- Adeline (roads): younger, joyful but smart
 - Sonia (trade): older, curious
+- Adeline (roads): younger, joyful but smart
 - Lambert (artisans): older, gloomy
-- Stanislas (mining): older, boastful
 - Adrienne (health): older, exacting
 - Emmanuel (education): younger, shy and self-conscious
 - Henri (security): older, exacting
 - Blanche (utilities): older, honest
+- Stanislas (mining): older, boastful
+
+**Stopping Point**
+Councilmembers give Ifir a sheet of rules to read and have everyone sign.
 
 In the hospital, Sal is sitting with her sick wife Rosalie. Rosalie is suffering from a strange illness; her body is weak and she's been slowly losing feeling starting in her toes and moving upward. Now she can barely move her arms. Salgrim became a cleric and left to find a cure for the illness, and she's found a mixture of medicine and magic that might do the trick. Rosalie is doubtful there's a cure for what she has, but is incredibly grateful that her love has returned.
 
