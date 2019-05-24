@@ -21,7 +21,7 @@ Feel free to move scores around but, unless you have five or more -1 scores, try
 
 AC represents how difficult your character is to hit with an attack, thanks to either agility or durability.
 
-HP is more abstract. It represents a combination of luck, stamina, and integrity (physical, emotional, and mental). You may choose how to handle HP in your setting. Each reduction of HP might be a direct hit from a weapon, or your character might experience many near-misses and only take physical damage when they tire and become an easier target.
+HP is more abstract. It represents a combination of luck, stamina, and integrity (physical, emotional, and mental). You may choose how to handle HP in your setting. Each reduction of HP might be a direct hit from a weapon, or your character might experience many near-misses and only take real injuries when they tire and become an easier target.
 
 Once you have these stats you can flesh out your character with at least one sentence for each of the following:
 
