@@ -1,17 +1,21 @@
 # Anjouville
 The party is together in White Vale, preparing to journey to Salgrim's home. They've eaten and it's time to rest. There are bunks available, but Ifir is having trouble sleeping. If she takes a walk, she'll find Vela at the showers.
 
-**Stopping Point**  
-Julius said "You're gonna make a great mama bear" when Ifir asked what kind of animal she reminds him of.
-
-**Stopping Point**
-Talking about angel forms, Dama finally understands what they really look like, still on the road to Anjouville.
-
-Ifir got Vela to finger her to completion while the boys watched.
-
 The party sets out for the gnomish city of Anjouville (ahn-zhoo-vee). Anjouville is an ancient underground city in the far north, accessible by entrances found in the mountains. While Sal is returning home for personal reasons, the group is following along because the underground city would be the perfect place to hide from Polaris' view and thus hide from Elduin's gaze.
 
 The group consists of: Ifir, Dama, Ezrah, Salgrim, Ilien, Julius, Vela, and Ursa. Ifir is a little more than halfway along in her pregnancy, Dama and Ezrah are becoming closer, Sal is on a mission, Ilien left Polly to tend to White Vale, Julius and Vela are past the point of no return, and Ursa is struggling to come to terms with Elduin's betrayal.
+
+**Stopping Point**  
+Julius said "You're gonna make a great mama bear" when Ifir asked what kind of animal she reminds him of.
+
+**Stopping Point**  
+Talking about angel forms, Dama finally understands what they really look like, still on the road to Anjouville.
+
+**Stopping Point**  
+Ifir got Vela to finger her to completion while the boys watched.
+
+**Stopping Point**  
+Waiting outside the entrance to the tunnel that leads to Anjouville, Ezrah, Dama, and Ifir were talking about the kind of food that the gnomes have access to underground.
 
 When they finally reach the mountain entrance, Salgrim is greeted by three armed gnomish guards and the party is questioned before being allowed entrance. The trek down into the depths of the earth is interesting: a tunnel stretches before them with smaller offshoots connecting into the main shaft, glowing crystals providing dim lighting. The gnomes have not fully converted to technology and instead rely heavily on magic. The tunnel opens up into an enormous underground cavern with massive pillars positioned at intervals which support the ceiling above. There are carefully planned streets with tiered platforms housing neighborhoods, all roughly the same size but with a variety of shapes and colors. The largest building is positioned near the center. Sal tells the history of the city as they travel through the streets, gnomes staring as they pass. There are very few non-gnomish folk in the city, and Ifir sees a handful of humans, elves, and even a half-orc on the trip to the center.
 
