@@ -27,18 +27,18 @@ Soleil (So-Lay)
 
 ### Council
 - Sonia (trade): older, curious
-- Adeline (roads): younger, joyful but smart
+- Adeline (roads): younger, joyful but smart (Sal's daugther)
 - Lambert (artisans): older, gloomy
 - Adrienne (health): older, exacting
 - Emmanuel (education): younger, shy and self-conscious
 - Henri (security): older, exacting
-- Blanche (utilities): older, honest
-- Stanislas (mining): older, boastful
+- Blanche (utilities): older, honest (blonde)
+- Stanislas (mining): older, boastful (hat)
 
 **Stopping Point**
 Councilmembers give Ifir a sheet of rules to read and have everyone sign.
 
-In the hospital, Sal is sitting with her sick wife Rosalie. Rosalie is suffering from a strange illness; her body is weak and she's been slowly losing feeling starting in her toes and moving upward. Now she can barely move her arms. Salgrim became a cleric and left to find a cure for the illness, and she's found a mixture of medicine and magic that might do the trick. Rosalie is doubtful there's a cure for what she has, but is incredibly grateful that her love has returned.
+In the hospital, Sal is sitting with her sick wife Rose. Rose is suffering from a strange illness; her body is weak and she's been slowly losing feeling starting in her toes and moving upward. Now she can barely move her arms. Salgrim became a cleric and left to find a cure for the illness, and she's found a mixture of medicine and magic that might do the trick. Rose is doubtful there's a cure for what she has, but is incredibly grateful that her love has returned.
 
 Salgrim offers to open her home to the group. She lives in a neighborhood plot not far from the Lieu de Rencontre, her daughter and her family living in the house she left behind. There's not room for many, and the party must split up between this house and the guest lodging nearby.
 
@@ -50,6 +50,9 @@ Son Maxime, single and working as an artisan (woodworking).
 While the party is exploring Anjouville, a masked face is staking out Steson. They are spying on the city under lockdown. The masked figure retreats into the forest on the far side of the lake, into a camouflaged pit-camp. The figure removes their mask and hood to reveal that it's Lili. She looks different; her hair is cut shorter and there is a wrap around her shoulder. Her eyes are fierce and determined. She sits with the gnolls who were waiting in the pit-camp for her. They have meat on a small travel grill, and offer a skewer to Lili, which she takes and bites into with a frown. "There's no wasy way into the city, but if what I've heard is true then our friends aren't there." The gnolls remain quiet as Lili continues. "We can try and track them, but apparently w they disappeared into thin air about a week ago." She takes another bite of the meat skewer. Knutt says "No tracks to follow. Should we stay?" Lili nods and replies, "We have to find a way into the city. We need to make her home safe again for when she returns."
 
 Back in Anjouville, everyone must find jobs in the city if they are going to be allowed to stay and hide out here.
+
+**Stopping Point**
+After eating dinner with Sal's family, Sal invited Ifir to go with her to see Rose. Maxime is coming along and Ezrah is going to need to find an apartment to stay in while they are in the city.
 
 ## Jobs
 - Ezrah quickly finds work as a laborer, his strength and size coming in handy on construction projects.
