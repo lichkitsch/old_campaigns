@@ -54,13 +54,27 @@ Back in Anjouville, everyone must find jobs in the city if they are going to be 
 **Stopping Point**
 After eating dinner with Sal's family, Sal invited Ifir to go with her to see Rose. Maxime is coming along and Ezrah is going to need to find an apartment to stay in while they are in the city.
 
+## Structure
+- Set deep inside a mountain
+- Filled with magic crystals that lose their power when removed from the rock
+- City is set up in concentric circles, each pie-slice is a district
+- Center of the city is the Lieu de Rencontre (Meeting Place)
+
 ## Jobs
 - Ezrah quickly finds work as a laborer, his strength and size coming in handy on construction projects.
-- Julius and Ilien find jobs as scribes, copying texts in the Lieu de Rencontre's library.
+- Ilien takes a job working with the Mining District, running a crane.
+- Julius and Vela find jobs as scribes, copying texts in the Lieu de Rencontre's library.
 - Ursa joins the security division, assigned to trade councilwoman Sonia.
-- Vela works at the Hospital, practicing her healing magic with Salgrim.
 - Dama struggles to find work, and is at risk of being removed from the city. Luckily, babysitter counts as a job and he can assist Bertrand with caring for Sal's grandchildren.
 - Ifir is given a pass, as being pregnant (creating life) is regarded as a full-time job in Anjouville, but is allowed to play her violin for coin.
+
+After working the first day, jobs change. Vela ends up in the hospital, training under Sal, and Ilien takes her place as a scribe in the library. Ezrah moves up to operating the crane and is quite happy with the development.
+
+**Stopping Point**
+Vela was a little rude about finding another job
+Founder Aria - Goofy, higher-pitched nyehh type voice
+Alchemist's brother, not his wife
+
 
 ## Plot Hooks
 1. Adrienne and Blanche are investigating a strange illness arising from a discolored water source.

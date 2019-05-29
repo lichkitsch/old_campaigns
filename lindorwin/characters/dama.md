@@ -15,3 +15,4 @@ Dama and his mother were exiled from the Beetle Wilds when he was still young. T
 
 ## Resources
 What are your characters assets? Relationships? Possessions?  
+Dama wields a curved sword and a buckler shield.
