@@ -28,3 +28,5 @@ Mind Defense Charm Melee Ranged
 
 Melee => Recover => Defense => Ranged  => Magic  => Melee
 Melee => Defense => Magic   => Recover => Ranged => Melee
+
+
