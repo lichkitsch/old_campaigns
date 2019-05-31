@@ -11,6 +11,7 @@
 - Pixies (smallest fae)
 - Spriggans (shrunken ghosts of giants)
 - Sylph (air spirit)
+- Talking birds and flying/gliding mammals
 
 ### Space
 - Blink dogs
@@ -37,6 +38,7 @@
 - Treants (living trees)
 - Trolls
 - Were-beasts
+- Talking land creatures
 
 ### Life
 - Faeries
@@ -51,6 +53,7 @@
 - Nixies (water pixies)
 - Selkie
 - Sprites (live near water)
+- Talking sea creatures
 
 ### Time
 - Changelings
@@ -93,10 +96,10 @@ Alder, Sorrel's father, is CEO and owner of Oberon Electronics, the family busin
 ## Gang??
 
 
-## The Spread
-The Spread is an underground magical marketplace, a neutral territory where all are required to assume their natural forms and fighting is strictly regulated.
+## The Sprawl
+The Sprawl is an underground magical marketplace, a neutral territory where all are required to assume their natural forms and fighting is strictly regulated.
 
-Sorrel sneaks out to fight in the tournaments that occur in the Spread for fun.
+Sorrel sneaks out to fight in the tournaments that occur in the Sprawl for fun, and has gotten quite good at it.
 
 ## Paragon City Police Department
 The mostly-human police force of Paragon City, full of corrupt cops looking for any chance they can get to make more money and flaunt their power over others. 

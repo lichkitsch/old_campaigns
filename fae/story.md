@@ -1,11 +1,11 @@
-It's no longer the days of old. Fae of all kinds have been taken to living underground, hidden away in the nooks and crannies of human cities for generations. Only those permitted may walk the streets above, in full glamour of course, and interact with humans.
+It's no longer the days of old. Fae of all kinds live in the in-between, worlds hidden away in the nooks and crannies of human civilization. Only those permitted may walk the streets above, in full glamour of course, and interact with humans.
 
 Oxalis "Sorrel" Danann is a faerie princess, daughter of King Alder and Queen Maple, heiress to the Golden Throne.
 
-While her family has positioned themselves in places of power in the human world above, Sorrel finds that she spends most of her time enjoying being a faerie. She doesn't care for hiding and often sneaks out to compete in the fighting tournaments held in the Sprawl for fun. She's become well-known in the circuit as the mysterious, masked maestro Gloriosa. With her keytar, some spell training, and 
+While her family has positioned themselves in places of power in the human world above, Sorrel finds that she spends most of her time enjoying being a faerie. She doesn't care for hiding and often sneaks out of her room to compete in the fighting tournaments held in the Sprawl for fun. She's become well-known in the circuit as the mysterious masked maestro. 
 
 ## Adrien Fox
-Fox was born to King Castor and Queen Nicotiana of the Unseelie Court. He was taken from his crib and swapped with a human child, lightly touched by magic, by an agent acting under secret orders from King Alder. The child kept Fox's true name, Hemlock. Growing up, Fox moved between various foster situations. Most of the homes he ended up in were with cruel or uncaring guardians and equally cruel or apathetic children. When he was nine, Fox was placed with a kind couple with no children of their own. He lived with them for all of a week before they were killed during a break-in gone wrong, an incident that left Fox with a wicked scar on the side of his neck when he tried to protect his unfortunate guardians. This left Fox with a hatred of thieves and criminals.
+Fox was born to King Castor and Queen Achillea of the Unseelie Court. He was taken from his crib and swapped with a human child, lightly touched by magic, by an agent acting under secret orders from King Alder. The child kept Fox's true name, Hemlock. Growing up, Fox moved between various foster situations. Most of the homes he ended up in were with cruel or uncaring guardians and equally cruel or apathetic children. When he was nine, Fox was placed with a kind couple with no children of their own. He lived with them for all of a week before they were killed during a break-in gone wrong, an incident that left Fox with a wicked scar on the side of his neck when he tried to protect his unfortunate guardians. This left Fox with a hatred of thieves and criminals.
 
 He continued to bounce around from home to home until he was 16, old enough to emancipate himself. He supported himself with odd jobs, saving his money and studying the system. He'd developed a distrust of people, gravitating towards law and order but having a gnawing feeling deep within that he was acting against his nature. The Unseelie Court is the pinnacle of chaos and its denizens were born with an innate, chaotic disposition. Fox uses much of his energy fighting his inner nature, causing him to fall ill frequently. This led to him becoming a neat and tidy person; he cooked his own food and took care to exercise and stay clean in an effort to overcome the strange bouts of illness.
 
@@ -23,11 +23,6 @@ By covering business and politics, the royal heads of the Seelie Court are risin
 
 ## Fern
 Fern is a dryad who works by day as a barista at The Copper Cup, a cafe on the outskirts of the Sprawl. At night she uses her affinity for healing magic and sates her love of action by volunteering as a ring medic for the Brawl at the Sprawl. Fern is a tall, willowy woman with dark skin, auburn hair, and bright golden eyes. She's a gifted healer and a lover of nature, a firm believer in the old laws by which the Fey live.
-
-## The Old Laws
-The Fey live by a handful of laws that were laid down in the distant past, some say that they were whispered to the original spirits by Mother Earth herself:
-1. Wheel - What you give, so shall you receive.
-3. Tooth - Eat, as you shall someday be eaten. 
 
 What is your character’s name? Does the character have a nickname?
 : Adrien Fox, goes by "Fox" / Foxglove the Unseelie Prince
