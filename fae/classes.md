@@ -104,12 +104,12 @@ Piercing / Slashing / Bashing
 7. Conjure the Spectre of Life 
 
 ## Gravedigger
-1. Cutting Insult, Drain Energy 
-1. Inflict Minor Wounds, Clean Bones
+1. Cutting Insult, Clean Bones
+1. Inflict Minor Wounds, Drain Energy
 2. Command Dead Flesh, Ghost-speak
 3. Inflict Major Wounds, Conjure Darkness
 4. Necrotic Touch, Soul-binding
-5. Ressurection, Make Mortal 
+5. Command Living Flesh, Ressurection
 7. Conjure the Spectre of Death
 
 ## Trickster
