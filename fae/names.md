@@ -19,7 +19,7 @@ birch
 bittercress  
 bluebell  
 brier  
-buckeye  
+buckeye - keeper of the sprawl  
 buttercup  
 cabbage  
 caladium  
@@ -62,6 +62,7 @@ hadera
 haldi  
 hazel  
 heather  
+hemlock - the changeling that adrien was replaced by, prince of the unseelie court
 hepatica  
 hesperis  
 holly hollyhock  

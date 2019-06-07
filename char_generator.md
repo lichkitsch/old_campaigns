@@ -32,4 +32,4 @@
 - Sloth: "The path of least resistance is the path I want to take."
 - Wrath: "I'll make them pay. I'll make them all pay."
 - Envy: "I must be better than them."
-- Pride: "I deserve more than what I have."
+- Pride: "Am I not worthy of worship? Am I not a god among men?"
