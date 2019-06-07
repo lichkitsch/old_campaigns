@@ -12,6 +12,8 @@ After the fight, Sorrel sees on her phone that she has 2 missed calls and a text
 ## Minor Challenge
 Before she can leave the Sprawl, Sorrel is approached by Hemlock and his cronies/guards, Oyster and Beech. He either teases her for losing or claims that Thorn went easy since she's a princess, then claims that Sorrel owes him the fee for fighting in the Sprawl.
 
+Hemlock is the son of Castor and Achillea, king and queen of the Unseelie Court. He's thin and pale with greasy black hair, dark eyes, and gold piercings. He looks almost like his skin doesn't fit right, like he's in the wrong body.
+
 Note: Hemlock is NOT in charge of the Sprawl and has no business asking anyone for money. Sorrel has been forbidden from touching Hemlock (when a child of either court reaches the age when they can walk, they are subject to a spell that prevents them from physically interacting with the members of the opposite family), but that doesn't mean that his cronies have to follow the same rules. Sorrel can pay him and get teased again, fight his cronies, or run away and start a chase sequence.
 
 ### Oyster the L1 Ruffian
@@ -22,13 +24,13 @@ Oyster is a brute with a bat and a bandage on his cheek. Mushrooms are popping o
 AF 12 / HP 10 / S+2 D+1 V+0 I-1 W-2 C+1
 Beech is a thin, pale wisp of a girl with elongated features and sharp teeth.
 
-Sorrel gets arrested by Fox.
+Sorrel gets arrested by Fox for fighting, while Hemlock and his cronies get away.
 
 ## Plot Twist
 On their way to the station, Fox's car is slammed into by a truck. The car has been flipped and the two can pull themselves from the wreckage with some effort. They can then see the truck that hit them... the back has been torn open by something big and there are three mean-looking human men arguing with each other and brandishing weapons. When they sense Sorrel and Fox have exited the wrecked car, one says "Great, now there's witnesses." and the three aim their weapons and start towards them.
 
 ## Major Challenge
-The gangsters say "Don't worry, we'll be quick."
+The gangsters say "Don't worry, we'll be quick." as they advance with violent intent.
 
 ### L2 Smuggler Driver
 AF 14 / HP 15 / S+2 D-1 V+2 I+0 W-1 C-1
