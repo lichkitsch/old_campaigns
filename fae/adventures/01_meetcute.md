@@ -1,4 +1,5 @@
 # Meet Cute
+Prologue/Intro - Park at night, figure, coughing into their hand and stumbling down the trail beneath the lampposts. They stop and lean back against the post to catch their breath. We see a red gloved hand with a pistol. The figure smiles weakly. We hear a gunshot, and see a bright light that fades into a spotlight shining on a roped in hexagonal fighting ring. 
 
 ## Entrance & Guardian
 Open with a bang: Sorrel is called in to the ring for her fight against a young, gruff satyr named Thorn.
