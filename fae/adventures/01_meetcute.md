@@ -1,11 +1,12 @@
 # Meet Cute
-Prologue/Intro - Park at night, figure, coughing into their hand and stumbling down the trail beneath the lampposts. They stop and lean back against the post to catch their breath. We see a red gloved hand with a pistol. The figure smiles weakly. We hear a gunshot, and see a bright light that fades into a spotlight shining on a roped in hexagonal fighting ring. 
+Prologue/Intro
+We see a city park at night. A gravel road lined with lampposts stretches off into the darkness. We see a figure stumble into view, a hand clasped over their mouth to cover a coughing fit. The figure slumps down, leaning back against the cold metal of a lamppost to catch their breath. They take their hand away from their mouth and we see a small mushroom cap in their palm. From afar we see a red gloved hand, holding a pistol. The slumped figure smiles weakly and points their hand towards the red gloved stranger, their fingers mimicking a gun. A gunshot rings out and we see a bright light that fades into a spotlight shining on a hexagonal fighting ring.
 
 ## Entrance & Guardian
 Open with a bang: Sorrel is called in to the ring for her fight against a young, gruff satyr named Thorn.
 
 ### Thorn the L1 Satyr
-AF 10 / HP 10 / S+2 D+1 V+0 I-2 W-2 C+0
+AF 10 / HP 4 / S+2 D+1 V+0 I-2 W-2 C+0
 Thorn fights with his fists wrapped in tape. He has a gold tooth, a broken nose, and his horns have been shaved down.
 
 After the fight, Sorrel sees on her phone that she has 2 missed calls and a text from her father that says "Come home, now."
@@ -18,12 +19,16 @@ Hemlock is the son of Castor and Achillea, king and queen of the Unseelie Court.
 Note: Hemlock is NOT in charge of the Sprawl and has no business asking anyone for money. Sorrel has been forbidden from touching Hemlock (when a child of either court reaches the age when they can walk, they are subject to a spell that prevents them from physically interacting with the members of the opposite family), but that doesn't mean that his cronies have to follow the same rules. Sorrel can pay him and get teased again, fight his cronies, or run away and start a chase sequence.
 
 ### Oyster the L1 Ruffian
-AF 12 / HP 10 / S+1 D+2 V+0 I-2 W-1 C-1
+AF 12 / HP 7 / S+1 D+2 V+0 I-2 W-1 C-1
 Oyster is a brute with a bat and a bandage on his cheek. Mushrooms are popping out of his head and he has beady, black eyes.
 
 ### Beech the L1 Stonespeaker
 AF 12 / HP 10 / S+2 D+1 V+0 I-1 W-2 C+1
 Beech is a thin, pale wisp of a girl with elongated features and sharp teeth.
+
+Sorrel
+Oyster
+Beech
 
 Sorrel gets arrested by Fox for fighting, while Hemlock and his cronies get away.
 

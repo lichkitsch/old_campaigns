@@ -10,7 +10,7 @@
     1. Sorrel's past, relationship  with parents
     2. Sorrel's schedule, the fighting
     3. What's up with the construction site
-- Near the end of their talk, Sorrel gets a text from a blocked number
+- Near the end of their talk, Sorrel gets a text from a blocked number that reads "Watch where you step."
 
 ## Gate and Guardian
 
