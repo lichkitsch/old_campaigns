@@ -1,27 +1,33 @@
 # NPC Creator
 
-## Step One - Role
-First, what role does the NPC fulfill in the story?
+| Title         | Strength      | Weakness      | Desire               | Fear           |
+|:-------------:|:-------------:|:-------------:|:--------------------:|:--------------:|
+| The Innocent  | optimistic    | naive         | reach paradise       | punishment     |
+| The Everyman  | honest        | deferential   | belonging            | being left out |
+| The Warrior   | courageous    | arrogant      | recognition of worth | vulnerability  |
+| The Caregiver | compassionate | martyr        | supporting others    | selfishness    |
+| The Explorer  | ambitious     | hermitical    | self-discovery       | stagnation     |
+| The Outlaw    | passionate    | rebellious    | revenge/revolution   | ineffectuality |
+| The Lover     | committed     | conciliatory  | intimacy/experience  | loneliness     |
+| The Artist    | creative      | perfectionist | create enduring art  | mediocrity     |
+| The Clown     | comical       | frivolous     | joy/laughter         | boredom        |
+| The Scholar   | wise          | passive       | discover truth       | ignorance      |
+| The Magician  | analytical    | manipulative  | understand universe  | consequences   |
+| The Ruler     | responsible   | stubborn      | assert authority     | dethronement   |
+| The Survivor  | resourceful   | low empathy   | safety and longevity | death          |
 
-1. Companion
-2. Victim
-3. Bystander
-4. Leader
-5. Villain
+|     | Very Low     | Low         | Average     | High       | Very High     |
+|:---:|:------------:|:-----------:|:-----------:|:----------:|:-------------:|
+|  O  | Dogmatic     | Predictable | Curious     | Innovative | Unpredictable |
+|  C  | Spontaneous  | Flexible    | Relaxed     | Focused    | Stubborn      |
+|  E  | Hermitical   | Shy         | Easy-going  | Sociable   | Charismatic   |
+|  A  | Manipulative | Insensitive | Kind        | Empathetic | Compassionate | 
+|  N  | Risilient    | Stable      | Comfortable | Anxious    | Neurotic      |
 
-## Step Two - Personality
-Next, choose 1 of the 12 personality types for the character:
-| Title         | Strength      | Weakness      | Desire | Fear | Method |
-|:-------------:|:-------------:|:-------------:|:------:|:----:|:------:|
-| The Warrior   | courageous    | arrogant      | to prove their worth through as a hero |
-| The Innocent  | optimistic    | naive         | to get to paradise                     |
-| The Everyman  | honest        | deferential   | to connect with others                 |
-| The Caregiver | compassionate | martyr        | to protect and care for others         |
-| The Explorer  | ambitious     | hermitical    | self-discovery through travel          |
-| The Outlaw    | passionate    | rebellious    | revenge or revolution                  |
-| The Lover     | committed     | conciliatory  | intimacy and experience                |
-| The Artist    | creative      | perfectionist | to create things with enduring value   |
-| The Clown     | comical       | frivolous     | to live in the moment and be happy     |
-| The Scholar   | wise          | passive       | to discover the universal truths       |
-| The Magician  | analytical    | manipulative  | to understand the laws of the universe |
-| The Ruler     | responsible   | stubborn      | to assert their authority over others  |
+Vocal Attributes
+1. Speed (fast, medium, slow, very slow)
+2. Character (stuttering, texture, inflections)
+3. Vocabulary (intelligent, trying to be intelligent, average, stupid)
+4. Confidence 
+
+
