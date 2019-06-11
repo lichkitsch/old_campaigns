@@ -26,25 +26,19 @@ Oyster is a brute with a bat and a bandage on his cheek. Mushrooms are popping o
 AF 12 / HP 10 / S+2 D+1 V+0 I-1 W-2 C+1
 Beech is a thin, pale wisp of a girl with elongated features and sharp teeth.
 
-Sorrel
-Oyster
-Beech
-
-Sorrel gets arrested by Fox for fighting, while Hemlock and his cronies get away.
-
 ## Plot Twist
-On their way to the station, Fox's car is slammed into by a truck. The car has been flipped and the two can pull themselves from the wreckage with some effort. They can then see the truck that hit them... the back has been torn open by something big and there are three mean-looking human men arguing with each other and brandishing weapons. When they sense Sorrel and Fox have exited the wrecked car, one says "Great, now there's witnesses." and the three aim their weapons and start towards them.
+On their way to the station, Fox's car is slammed into by a truck. The car has been flipped and the two can pull themselves from the wreckage with some effort. They can then see the truck that hit them... the back has been torn open by something big and there are two mean-looking human men arguing with each other and brandishing weapons. When they sense Sorrel and Fox have exited the wrecked car, one says "Great, now there's witnesses." and the two aim their weapons and start towards them.
 
 ## Major Challenge
 The gangsters say "Don't worry, we'll be quick." as they advance with violent intent.
 
 ### L2 Smuggler Driver
 AF 14 / HP 15 / S+2 D-1 V+2 I+0 W-1 C-1
-The biggest of the humans has a burn on his face and is holding an old-looking rifle like a bat.
+The bigger of the two humans has a burn on his face and is holding an old-looking rifle like a bat.
 
-### L1 Smuggler (x2)
+### L1 Smuggler
 AF 14 / HP  9 / S+1 D+1 V-1 I-2 W-1 C+0
-The other two smugglers (a short one with a knife and a bald one with a crowbar).
+The other smuggler is bald and is wielding a crowbar.
 
 ## Reward/Revelation
 King Alder thanks Fox for escorting Sorrel home safely and Maple reveals that Fox is to be her personal bodyguard. She cashed in a favor with his Captain and Fox is to stick close to Sorrel and keep her out of trouble (as best he can). Fox isn't particularly excited by this.
