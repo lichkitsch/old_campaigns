@@ -9,6 +9,14 @@
 7. Monsters
 8. Magic Rewards
 
+Season 1 Conflicts
+- Sorrel has to adjust to being followed around by Fox, her new bodyguard.
+- Humans working with agents of the Unseelie Court are trafficking dangerous faerie creatures to and from the city. At some point they move up from animals to faeries themselves.
+- Fox finds out that the traffickers are paying off police to get in and out of the city safely.
+- Fern has invested in her friend Malva's new club, Sanguine, which becomes the target of extortion by the Thornfrost family.
+- Sorrel has a stalker and an unknown vigilante looking out for her.
+- The closer Fox gets to the faerie world, the more his nature and origins are revealed.
+
 ## Episode List
 | Release  | ID  | Episode |
 |:--------:|:---:|:------- |
