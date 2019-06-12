@@ -1,33 +1,41 @@
 # NPC Creator
+What is their role in the narrative?
+1. Companion (fellow adventurers)
+2. Victim (innocent civilians, children)
+3. Resource (merchants, informants, supporters)
+4. Villain (dangerous antagonists)
 
-| Title         | Strength      | Weakness      | Desire               | Fear           |
-|:-------------:|:-------------:|:-------------:|:--------------------:|:--------------:|
-| The Innocent  | optimistic    | naive         | reach paradise       | punishment     |
-| The Everyman  | honest        | deferential   | belonging            | being left out |
-| The Warrior   | courageous    | arrogant      | recognition of worth | vulnerability  |
-| The Caregiver | compassionate | martyr        | supporting others    | selfishness    |
-| The Explorer  | ambitious     | hermitical    | self-discovery       | stagnation     |
-| The Outlaw    | passionate    | rebellious    | revenge/revolution   | ineffectuality |
-| The Lover     | committed     | conciliatory  | intimacy/experience  | loneliness     |
-| The Artist    | creative      | perfectionist | create enduring art  | mediocrity     |
-| The Clown     | comical       | frivolous     | joy/laughter         | boredom        |
-| The Scholar   | wise          | passive       | discover truth       | ignorance      |
-| The Magician  | analytical    | manipulative  | understand universe  | consequences   |
-| The Ruler     | responsible   | stubborn      | assert authority     | dethronement   |
-| The Survivor  | resourceful   | low empathy   | safety and longevity | death          |
+---
+Use the table below to pick a personality/archetype:
+| Sign        | Title         | Strength      | Weakness      | Desire               | Fear           |
+|:-----------:|:-------------:|:-------------:|:-------------:|:--------------------:|:--------------:|
+| Aries       | The Warrior   | courageous    | arrogant      | recognition of worth | vulnerability  |
+| Taurus      | The Ruler     | responsible   | stubborn      | assert authority     | dethronement   |
+| Gemini      | The Clown     | comical       | frivolous     | joy/laughter         | boredom        |
+| Cancer      | The Lover     | committed     | conciliatory  | intimacy/experience  | loneliness     |
+| Leo         | The Magician  | analytical    | manipulative  | understand universe  | consequences   |
+| Virgo       | The Artist    | creative      | perfectionist | create enduring art  | mediocrity     |
+| Libra       | The Neighbor  | honest        | deferential   | belonging            | being left out |
+| Scorpio     | The Outlaw    | passionate    | rebellious    | revenge/revolution   | ineffectuality |
+| Sagittarius | The Innocent  | optimistic    | naive         | paradise             | punishment     |
+| Capricorn   | The Scholar   | wise          | passive       | discover truth       | ignorance      |
+| Aquarius    | The Explorer  | ambitious     | hermitical    | self-discovery       | stagnation     |
+| Pisces      | The Caregiver | compassionate | martyrdom     | supporting others    | selfishness    |
 
-|     | Very Low     | Low         | Average     | High       | Very High     |
-|:---:|:------------:|:-----------:|:-----------:|:----------:|:-------------:|
-|  O  | Dogmatic     | Predictable | Curious     | Innovative | Unpredictable |
-|  C  | Spontaneous  | Flexible    | Relaxed     | Focused    | Stubborn      |
-|  E  | Hermitical   | Shy         | Easy-going  | Sociable   | Charismatic   |
-|  A  | Manipulative | Insensitive | Kind        | Empathetic | Compassionate | 
-|  N  | Risilient    | Stable      | Comfortable | Anxious    | Neurotic      |
+---
+Answer the following:
+- How old are they?
+    1. Child (0-12)
+    2. Teen (13-18)
+    3. Young Adult (19-30)
+    4. Adult (31-49)
+    5. Older Adult (50-64)
+    6. Senior (65+)
+- What do they do?
+- What do they look like?
 
-Vocal Attributes
+---
+Describe their vocal attributes:
 1. Speed (fast, medium, slow, very slow)
 2. Character (stuttering, texture, inflections)
-3. Vocabulary (intelligent, trying to be intelligent, average, stupid)
-4. Confidence 
-
-
+3. vocabulary (intelligent, trying to be intelligent, average, stupid)
