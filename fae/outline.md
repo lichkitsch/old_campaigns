@@ -7,7 +7,7 @@
 5. Locations
 6. NPCs
 7. Monsters
-8. Magic Rewards
+8. Rewards
 
 Season 1 Conflicts
 - Sorrel has to adjust to being followed around by Fox, her new bodyguard.

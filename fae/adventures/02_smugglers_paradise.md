@@ -14,17 +14,15 @@
 - Sorrel gets invited to play at a club opening (Sanguine) for one of Fern's friends, Malva. 
 - Fox wants to investigate the smugglers but can't leave Sorrel to her own devices. He offers to let her "shadow" him, if she'll agree to follow his lead.
 
-## Gate and Guardian
+Sorrel can decide to:
+1. Talk to Fox's hacker friend at the station to find out where the text came from.
+2. Go help Fern and Malva with setting up the Sanguine launch party.
+3. Tag along while Fox investigates the smuggling ring.
+
+## Hacker
+- Fox brings Sorrel to the Paragon City 13th Precinct
+
+## Sanguine
 
 
-## Minor Challenge
-
-
-## Trick/Setback
-
-
-## Boss Fight
-
-
-## Reward and Revelation
-
+## Smugglers
