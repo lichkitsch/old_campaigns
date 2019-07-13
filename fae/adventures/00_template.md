@@ -1,10 +1,10 @@
 # Quest Title
-(brief major conflict)
+SINLORD
 
-## Themes
+## Situation
 
 
-## NPCs
+## Important NPCs
 
 
 ## Locations
@@ -14,13 +14,15 @@
 
 
 ## Revelations
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+01. 
+02. 
+03. 
+04. 
+05. 
+06. 
+07. 
+08. 
+09. 
+10. 
 
-## Rewards
+## Dividends
