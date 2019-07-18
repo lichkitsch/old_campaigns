@@ -8,9 +8,9 @@ anemone
 angelica  
 apple  
 arrowwood  
-ash  
+ash - malva's bartender girlfriend  
 aster  
-basil  
+basil - king alder's trusted assistant  
 bay  
 begonia  
 bendweed  
@@ -20,7 +20,7 @@ bittercress
 bluebell  
 brier  
 buckeye - keeper of the sprawl  
-buttercup  
+buttercup - rambunctious yellow-and-green sprite living in the Twilight Realm  
 cabbage  
 caladium  
 calla  
@@ -48,8 +48,8 @@ dogwood
 dracunculus vulgaris  
 epacris  
 evergreen  
-fennel  
-fern - barista by day, dryad and ring medic at the Sprawl by night 
+fennel - dj and sound guy working for malva, has a thing for cheesey puffs  
+fern - barista by day, dryad and ring medic at the Sprawl by night  
 fig  
 flax  
 foxglove - adrien fox, starts as a cop and ends up as a fungal necromancer villain fighting back against the police  
@@ -62,7 +62,7 @@ hadera
 haldi  
 hazel  
 heather  
-hemlock - the changeling that adrien was replaced by, prince of the unseelie court
+hemlock - the changeling that adrien was replaced by, prince of the unseelie court  
 hepatica  
 hesperis  
 holly hollyhock  
@@ -86,7 +86,7 @@ lobelia
 lupine  
 magnolia  
 maize  
-malva  
+malva - owner of the club Sanguine and a friend of Fern's  
 mango  
 maple - Sorrel's mother, the mayor of Paragon City  
 marguerite  
