@@ -1,32 +1,11 @@
 # Character List
 
 ## Sorrel Danann, L1 Trickster
-AC 12 | HP 11 /11
+HP 11/11 ; S+0 D+2 C+1 I+1 W+1 H+2
 
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|  0  |  2  |  1  |  1  |  1  |  2  |
-
-### Spells
-Cantrips
-- A Trick of the Light: minor illusion, +1 ED for 1 round or L hours
-- Silence: target 30 ft radius for L rounds/hours
-
-## Adrian Fox, L1 Gravedigger (suppressed)
-AC 11 | HP 12 /12
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|  1  |  1  |  2  |  0  |  0  | -1  |
+## Adrian Fox
+HP 12/12 ; S+1 D+1 C+2 I+0 W+0 H-1
+Inv: Pistol, detective's badge
 
 ## Fern, L1 Lifelighter
-AC 10 | HP 11 /11
-
-| STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| -1  |  0  |  1  |  2  |  1  |  0  |
-
-### Spells
-Cantrips
-- Heal Minor Wounds: target +HP
-- Revitalize: give target advantage on a CON save
+HP 11/11 ; S-1 D+0 C+1 I+2 W+1 H+0
