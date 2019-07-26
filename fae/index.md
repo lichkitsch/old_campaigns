@@ -14,3 +14,28 @@ Alder recently received a text message with a photo attachment, which included a
 
 ## Queen/Mayor Maple
 Maple is a busy woman, helping to run the city and the hidden world beneath it.
+
+
+1. After losing the fire drake, the Thornfrost gang starts using drugs to steal fae
+
+2. Red finds out about faeries through the missing fire drake and tells the other cops about the Sprawl
+
+3. After finding out that Hemlock isn’t the true heir, Castor and Achillea attempt to bring Fox into the fold and use him and Sorrel to merge the Courts
+
+4. When Dahlia finds out that Jasper is behind her children’s abductions, she declares war on him and attacks the Thornfrost hideouts
+
+5. Fox, blinded by finally finding his family and poisoned by their magic, starts coming into his power and manages to infect Sorrel unwittingly
+
+6. Fox is ousted by the police after his powers reveal their plans to forcibly impeach Maple as mayor
+
+7. Dahlia attempts to kill Fox before he can reveal her true identity
+
+8. Hemlock steals Fox’s powers, intending to use them to become truly fae
+
+9. Belvedere uses his magic to lock Fox and Sorrel in the past, to keep them from causing trouble for Dahlia
+
+10. Jasper Thornfrost kidnaps Sorrel while in her daemon form, intending to use her power against Dahlia and the Paragon City Police
+
+11. Pinning Maple and Alder as responsible for the riots and uprising in the city, the Police make a move to take over Oberon Tower
+
+12. Dahlia opens the portal and brings Fyr into Paragon City
