@@ -1,9 +1,9 @@
 
 ## Traits
-- Body: Stamina & endurance
-- Heart: Wisdom & empathy
-- Mind: Memory & reason
-- Soul: Charisma & energy
+- Body: Stamina, endurance / bold
+- Heart: Wisdom, empathy / patient
+- Mind: Memory, reason / clever
+- Soul: Charisma, energy / silly
 
 ## Details
 - Background: history and family
