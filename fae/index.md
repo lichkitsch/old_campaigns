@@ -1,4 +1,5 @@
 # Story Tracker
+Treasure map to someplace in the coty, left for Sorrel in the Twilight Realm
 
 ## Fox
 Detective Adrien Fox was born to Castor and Achillea, but was switched at birth with a human child (a changeling) who was named Hemlock and raised as the prince in his place. Fox moved from foster home to foster home until he could emancipate himself and became a cop after a couple of close calls with the law. Fox is curious about Sorrel and wants to know more about her. Specifically, he wants to know more about her brass knuckles and the obvious lies regarding her presence at the construction site. Fox and Red were investigating a string of thefts throughout the city, which has now turned into an investigation of the smugglers they crashed into and fought. In the long run, Fox has a main goal of finding out who his parents are.
