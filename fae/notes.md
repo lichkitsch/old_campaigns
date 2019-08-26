@@ -94,3 +94,6 @@ Fox, prince of the Unseelie Court, was exchanged with an enchanted human child i
 Fox and _ look like twins.
 
 Non-seelie neutral court made up of humans that keep the fae's secret.
+
+
+Sorrel doesnt know what Castor and Achillea look like un-glamoured
