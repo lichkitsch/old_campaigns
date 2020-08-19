@@ -2,7 +2,7 @@ acacia
 alder - sorrel's father  
 almond  
 amaranthus  
-amaryllis  
+amaryllis - former light spirit
 ambrosia  
 anemone  
 angelica  
@@ -14,9 +14,9 @@ basil - king alder's trusted assistant
 bay  
 begonia  
 bendweed  
-bergamot  
+bergamot - bartender at sanguine  
 birch  
-bittercress  
+bittercress - magic merchant in sprawl  
 bluebell  
 brier  
 buckeye - keeper of the sprawl  
@@ -26,14 +26,15 @@ caladium
 calla  
 canadensis  
 cardamine  
-carrot  
+carrot - patron of wind and salamander  
 catmint  
+cattail - creator of twilight  
 cercis (redbud) (judas tree)  
 cherry  
 chestnut  
 chrysanthemum  
 cinnamon  
-clove  
+clove - apothecary  
 coffee  
 coleus  
 corn  
@@ -44,20 +45,20 @@ cress
 daffodil  
 daucus carota (queen anne's lace)  
 dead nettle  
-dogwood  
+dogwood - dj and sound guy working for malva, has a thing for cheesey puffs   
 dracunculus vulgaris  
 epacris  
 evergreen  
-fennel - dj and sound guy working for malva, has a thing for cheesey puffs  
+fennel  
 fern - barista by day, dryad and ring medic at the Sprawl by night  
-fig  
+fig - griffin  
 flax  
 foxglove - adrien fox, starts as a cop and ends up as a fungal necromancer villain fighting back against the police  
 freesia  
 fuchsia  
 ginger  
 gladiolus  
-goatsbeard  
+goatsbeard - criminal  
 hadera  
 haldi  
 hazel  
@@ -68,7 +69,7 @@ hesperis
 holly hollyhock  
 hops  
 hypericum  
-hyssop  
+hyssop - owlbear and former blood spirit  
 ilex (holly)  
 iris  
 jacob's ladder  
