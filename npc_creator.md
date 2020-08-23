@@ -1,5 +1,6 @@
 # NPC Creator
 What is their role in the narrative?
+
 1. Companion (fellow adventurers)
 2. Victim (innocent civilians, children)
 3. Resource (merchants, informants, supporters)
@@ -7,6 +8,7 @@ What is their role in the narrative?
 
 ---
 Use the table below to pick a personality/archetype:
+
 | Sign        | Title         | Strength      | Weakness      | Desire               | Fear           |
 |:-----------:|:-------------:|:-------------:|:-------------:|:--------------------:|:--------------:|
 | Aries       | The Warrior   | courageous    | arrogant      | recognition of worth | vulnerability  |
@@ -24,6 +26,7 @@ Use the table below to pick a personality/archetype:
 
 ---
 Answer the following:
+
 - How old are they?
     1. Child (0-12)
     2. Teen (13-18)
@@ -36,6 +39,7 @@ Answer the following:
 
 ---
 Describe their vocal attributes:
+
 1. Speed (fast, medium, slow, very slow)
 2. Character (stuttering, texture, inflections)
-3. vocabulary (intelligent, trying to be intelligent, average, stupid)
+3. Vocabulary (intelligent, trying to be intelligent, average, stupid)

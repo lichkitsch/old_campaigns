@@ -1,4 +1,4 @@
-# Acorn's DM Tips
+# Pup's DM Tips
 
 ## Season 1
 1. Responsibilities

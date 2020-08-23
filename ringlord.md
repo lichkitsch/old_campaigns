@@ -4,7 +4,7 @@
 Describe the state of the party and their current situation.
 
 ## Important NPCs
-List the important NPCs that the party might interact with including their name, description, motivation, and (if necessary) their stats.
+List the important NPCs that the party might interact with including their name, description, motivation, and (if necessary) their stats. Use single sentence structure: Blank wants to..., so they...".
 
 ## Goal
 Give the party a clear, specific objective. The goal might be a red herring or lead to something bigger, but to take action your party needs to *want* something.
