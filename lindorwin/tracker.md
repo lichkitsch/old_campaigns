@@ -91,10 +91,10 @@ Lola and Bertrand
 : Lola is Sal and Rosalie's daughter, a teacher married to stay-at-home husband Bertrand. They have two children, and open their home to the party.
 
 Emile and Martine
-: 
+: Young daughter and infant son off. Lola and Bertrand
 
 Maxime
-: 
+: Sal's son and Lola's brother, works as an artisan (carpenter?)
 
 Adeline
 : 
@@ -192,7 +192,7 @@ White Vale
 : A small timber camp to the north, situated just south of the mountains. There lies an abandoned dwarven mine nearby.
 
 The Lonely Plains
-: A long stretch of oppresive tundra betond the northern mountains.
+: A long stretch of oppressive tundra betond the northern mountains.
 
 Anjouville
 : A gnomish city hidden underground, beneath the mountains in the north.
